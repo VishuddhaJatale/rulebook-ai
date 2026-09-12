@@ -850,11 +850,11 @@ The purpose is to test whether the system can resist the temptation to answer ev
 The current measured baseline is:
 
 ```text
-Overall:          43/51  (84.3%)
+Overall:          50/51  (98.0%)
 
-ANSWERABLE:       17/20 (85.0%)
+ANSWERABLE:       19/20 (95.0%)
 
-NOT_COVERED:      20/25 (80.0%)
+NOT_COVERED:      25/25 (100.0%)
 
 CONTRADICTION:     6/6  (100.0%)
 ```
@@ -863,15 +863,15 @@ Summary:
 
 | State | Correct | Total | Accuracy |
 |---|---:|---:|---:|
-| `ANSWERABLE` | 17 | 20 | 85.0% |
-| `NOT_COVERED` | 20 | 25 | 80.0% |
+| `ANSWERABLE` | 19 | 20 | 95.0% |
+| `NOT_COVERED` | 25 | 25 | 100.0% |
 | `CONTRADICTION` | 6 | 6 | 100.0% |
-| **Overall** | **43** | **51** | **84.3%** |
+| **Overall** | **50** | **51** | **98.0%** |
 
 The system correctly identifies:
 
 ```text
-20/25
+25/25
 ```
 
 of the hard `NOT_COVERED` questions.
@@ -922,10 +922,11 @@ C01: expected=CONTRADICTION   predicted=CONTRADICTION   OK
 ============================================================
 EVALUATION SUMMARY
 ============================================================
-Overall: 43/51 (84.3%)
-ANSWERABLE: 17/20 (85.0%)
-NOT_COVERED: 20/25 (80.0%)
+Overall: 50/51 (98.0%)
+ANSWERABLE: 19/20 (95.0%)
+NOT_COVERED: 25/25 (100.0%)
 CONTRADICTION: 6/6 (100.0%)
+
 ```
 
 The evaluation script is intended to be runnable by a reviewer without requiring the Streamlit interface.
@@ -1776,7 +1777,7 @@ This demonstrates the core behavior of the project in a short sequence.
 
 ## Live Demo
 
-_Add the deployed application URL here once deployment is complete._
+https://rulebook-ai.streamlit.app/
 
 ## Contradiction Documentation
 
