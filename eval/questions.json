@@ -1,0 +1,542 @@
+{
+  "metadata": {
+    "name": "Rulebook AI Evaluation Set",
+    "version": "0.1",
+    "purpose": "Ground truth for the three-state rulebook QA system.",
+    "counts": {
+      "answerable": 20,
+      "not_covered": 25,
+      "contradiction": 6,
+      "total": 51
+    }
+  },
+  "answerable": [
+    {
+      "id": "A01",
+      "question": "What is the ordinary minimum attendance required for a regular student to appear for an end-semester examination?",
+      "expected_state": "ANSWERABLE",
+      "expected_evidence": [
+        {
+          "source": "corpus/academic_regulations.md",
+          "section": "4.1"
+        }
+      ],
+      "answer_key": "75 percent attendance in the lectures and practical classes prescribed separately for each course."
+    },
+    {
+      "id": "A02",
+      "question": "What is the minimum CGPA required for the B.E. degree under the RGPV Ordinance 4(A) supplied in the corpus?",
+      "expected_state": "ANSWERABLE",
+      "expected_evidence": [
+        {
+          "source": "corpus/rgpv_ordinance_4A_2013.pdf",
+          "page": 3,
+          "section": "4.2"
+        }
+      ],
+      "answer_key": "A minimum CGPA of 5.0."
+    },
+    {
+      "id": "A03",
+      "question": "How many teaching weeks should each semester provide under the synthetic academic regulations?",
+      "expected_state": "ANSWERABLE",
+      "expected_evidence": [
+        {
+          "source": "corpus/academic_regulations.md",
+          "section": "3.2"
+        }
+      ],
+      "answer_key": "At least fourteen teaching weeks, unless an approved exception applies."
+    },
+    {
+      "id": "A04",
+      "question": "Can a student assume that passing enough elective credits replaces a mandatory course?",
+      "expected_state": "ANSWERABLE",
+      "expected_evidence": [
+        {
+          "source": "corpus/academic_regulations.md",
+          "section": "5.7"
+        }
+      ],
+      "answer_key": "No. A student cannot substitute extra credits for a missing mandatory course unless an approved scheme expressly allows the substitution."
+    },
+    {
+      "id": "A05",
+      "question": "What should a student do if an attendance record appears to contain an error?",
+      "expected_state": "ANSWERABLE",
+      "expected_evidence": [
+        {
+          "source": "corpus/academic_regulations.md",
+          "section": "3.6"
+        }
+      ],
+      "answer_key": "Submit a correction request with supporting information before the examination-form deadline where applicable."
+    },
+    {
+      "id": "A06",
+      "question": "Does filing an attendance-condonation request automatically change a student's attendance percentage?",
+      "expected_state": "ANSWERABLE",
+      "expected_evidence": [
+        {
+          "source": "corpus/attendance_policy.md",
+          "section": "3.4"
+        }
+      ],
+      "answer_key": "No. Filing an application does not itself change the attendance percentage."
+    },
+    {
+      "id": "A07",
+      "question": "What happens if an examination is rescheduled?",
+      "expected_state": "ANSWERABLE",
+      "expected_evidence": [
+        {
+          "source": "corpus/academic_regulations.md",
+          "section": "22.2"
+        }
+      ],
+      "answer_key": "The revised notice supersedes the earlier timetable for the identified examination unless the notice says otherwise."
+    },
+    {
+      "id": "A08",
+      "question": "Does postponement of one examination automatically postpone all examinations in the same semester?",
+      "expected_state": "ANSWERABLE",
+      "expected_evidence": [
+        {
+          "source": "corpus/academic_regulations.md",
+          "section": "22.4"
+        }
+      ],
+      "answer_key": "No."
+    },
+    {
+      "id": "A09",
+      "question": "What should a student retain after paying a semester fee?",
+      "expected_state": "ANSWERABLE",
+      "expected_evidence": [
+        {
+          "source": "corpus/fee_deadlines.md",
+          "section": "1.3"
+        }
+      ],
+      "answer_key": "The transaction receipt until the end of the academic year."
+    },
+    {
+      "id": "A10",
+      "question": "What is the minimum passing grade for a course in the synthetic regulations?",
+      "expected_state": "ANSWERABLE",
+      "expected_evidence": [
+        {
+          "source": "corpus/academic_regulations.md",
+          "section": "7.2"
+        }
+      ],
+      "answer_key": "The grade specified in the approved scheme applicable to the student's cohort."
+    },
+    {
+      "id": "A11",
+      "question": "Under RGPV Ordinance 4(A), what is the minimum grade required to pass a particular subject?",
+      "expected_state": "ANSWERABLE",
+      "expected_evidence": [
+        {
+          "source": "corpus/rgpv_ordinance_4A_2013.pdf",
+          "page": 3,
+          "section": "4.3"
+        }
+      ],
+      "answer_key": "Grade D, with a separate minimum of grade D in the end-semester theory and practical parts."
+    },
+    {
+      "id": "A12",
+      "question": "Under RGPV Ordinance 4(A), how many subjects can an eligible student use for improvement because of the CGPA condition?",
+      "expected_state": "ANSWERABLE",
+      "expected_evidence": [
+        {
+          "source": "corpus/rgpv_ordinance_4A_2013.pdf",
+          "page": 4,
+          "section": "4.6"
+        }
+      ],
+      "answer_key": "A maximum of three theory/practical subjects, with theory and practical treated separately."
+    },
+    {
+      "id": "A13",
+      "question": "What is the maximum duration of the B.E. course under RGPV Ordinance 4(A), apart from the stated mercy-attempt provision?",
+      "expected_state": "ANSWERABLE",
+      "expected_evidence": [
+        {
+          "source": "corpus/rgpv_ordinance_4A_2013.pdf",
+          "page": 8,
+          "section": "8.4"
+        }
+      ],
+      "answer_key": "Eight years, with one mercy attempt governed by the referenced Ordinance No. 12 provision."
+    },
+    {
+      "id": "A14",
+      "question": "What is the ordinary semester tuition deadline shown in the synthetic fee table?",
+      "expected_state": "ANSWERABLE",
+      "expected_evidence": [
+        {
+          "source": "corpus/fee_deadlines.md",
+          "section": "fee table"
+        }
+      ],
+      "answer_key": "15 July, subject to the intentional conflict elsewhere in the same source."
+    },
+    {
+      "id": "A15",
+      "question": "Can an informal message from a classmate amend a university regulation?",
+      "expected_state": "ANSWERABLE",
+      "expected_evidence": [
+        {
+          "source": "corpus/academic_regulations.md",
+          "section": "18.4"
+        }
+      ],
+      "answer_key": "No. Informal advice or statements should not be treated as an official amendment."
+    },
+    {
+      "id": "A16",
+      "question": "What should an appeal against an academic administrative decision contain?",
+      "expected_state": "ANSWERABLE",
+      "expected_evidence": [
+        {
+          "source": "corpus/academic_regulations.md",
+          "section": "15.2"
+        }
+      ],
+      "answer_key": "The decision being challenged, grounds for review, requested remedy, and supporting documents where relevant."
+    },
+    {
+      "id": "A17",
+      "question": "Does filing an academic appeal automatically suspend the decision being challenged?",
+      "expected_state": "ANSWERABLE",
+      "expected_evidence": [
+        {
+          "source": "corpus/academic_regulations.md",
+          "section": "15.3"
+        }
+      ],
+      "answer_key": "No, unless the appeal authority grants interim relief."
+    },
+    {
+      "id": "A18",
+      "question": "What does the RGPV Ordinance 4(A) say about attendance for regular students appearing in a semester examination?",
+      "expected_state": "ANSWERABLE",
+      "expected_evidence": [
+        {
+          "source": "corpus/rgpv_ordinance_4A_2013.pdf",
+          "page": 8,
+          "section": "10.1"
+        }
+      ],
+      "answer_key": "75 percent attendance in lectures and practical classes separately, with stated shortfall condonation of up to 10% by the Principal and a further 5% by the Vice-Chancellor for satisfactory reasons."
+    },
+    {
+      "id": "A19",
+      "question": "What should happen when a user asks about a circumstance absent from the corpus?",
+      "expected_state": "ANSWERABLE",
+      "expected_evidence": [
+        {
+          "source": "corpus/academic_regulations.md",
+          "section": "18.5"
+        }
+      ],
+      "answer_key": "The application should state that the available rules do not establish an answer and must not invent a policy from other institutions."
+    },
+    {
+      "id": "A20",
+      "question": "What does RGPV Ordinance 4(A) require before a candidate can enter the seventh or higher semester?",
+      "expected_state": "ANSWERABLE",
+      "expected_evidence": [
+        {
+          "source": "corpus/rgpv_ordinance_4A_2013.pdf",
+          "page": 4,
+          "section": "4.5"
+        }
+      ],
+      "answer_key": "The candidate must have fully passed the first and second year examinations with minimum CGPA 5.0."
+    }
+  ],
+  "not_covered": [
+    {
+      "id": "U01",
+      "question": "What exact percentage of tuition fee is refunded if a student withdraws after the first week of classes?",
+      "expected_state": "NOT_COVERED",
+      "expected_evidence": [],
+      "reason": "The corpus does not establish the requested specific fact."
+    },
+    {
+      "id": "U02",
+      "question": "How many days of medical leave may a student take in one semester before attendance relief becomes unavailable?",
+      "expected_state": "NOT_COVERED",
+      "expected_evidence": [],
+      "reason": "The corpus does not establish the requested specific fact."
+    },
+    {
+      "id": "U03",
+      "question": "Can a student receive attendance condonation for attending a sibling's wedding?",
+      "expected_state": "NOT_COVERED",
+      "expected_evidence": [],
+      "reason": "The corpus does not establish the requested specific fact."
+    },
+    {
+      "id": "U04",
+      "question": "What is the maximum number of consecutive hostel nights a student may spend away without filing leave?",
+      "expected_state": "NOT_COVERED",
+      "expected_evidence": [],
+      "reason": "The corpus does not establish the requested specific fact."
+    },
+    {
+      "id": "U05",
+      "question": "What is the exact hostel fine for returning after the nightly curfew?",
+      "expected_state": "NOT_COVERED",
+      "expected_evidence": [],
+      "reason": "The corpus does not establish the requested specific fact."
+    },
+    {
+      "id": "U06",
+      "question": "How much is the late fee for paying semester tuition during the late-payment window?",
+      "expected_state": "NOT_COVERED",
+      "expected_evidence": [],
+      "reason": "The corpus does not establish the requested specific fact."
+    },
+    {
+      "id": "U07",
+      "question": "Can semester tuition be paid in two installments instead of one?",
+      "expected_state": "NOT_COVERED",
+      "expected_evidence": [],
+      "reason": "The corpus does not establish the requested specific fact."
+    },
+    {
+      "id": "U08",
+      "question": "What is the exact CGPA required to qualify for a university gold medal?",
+      "expected_state": "NOT_COVERED",
+      "expected_evidence": [],
+      "reason": "The corpus does not establish the requested specific fact."
+    },
+    {
+      "id": "U09",
+      "question": "How many marks are awarded for a final-year project presentation?",
+      "expected_state": "NOT_COVERED",
+      "expected_evidence": [],
+      "reason": "The corpus does not establish the requested specific fact."
+    },
+    {
+      "id": "U10",
+      "question": "What percentage of a scholarship is paid directly to the student's bank account?",
+      "expected_state": "NOT_COVERED",
+      "expected_evidence": [],
+      "reason": "The corpus does not establish the requested specific fact."
+    },
+    {
+      "id": "U11",
+      "question": "What family-income ceiling is required for the scholarship scheme?",
+      "expected_state": "NOT_COVERED",
+      "expected_evidence": [],
+      "reason": "The corpus does not establish the requested specific fact."
+    },
+    {
+      "id": "U12",
+      "question": "Can a student carry a failed elective into graduation if the total credit count is sufficient?",
+      "expected_state": "NOT_COVERED",
+      "expected_evidence": [],
+      "reason": "The corpus does not establish the requested specific fact."
+    },
+    {
+      "id": "U13",
+      "question": "How many days does the examination office have to publish results after the last examination?",
+      "expected_state": "NOT_COVERED",
+      "expected_evidence": [],
+      "reason": "The corpus does not establish the requested specific fact."
+    },
+    {
+      "id": "U14",
+      "question": "What is the exact maximum number of minutes a student may be late to an examination?",
+      "expected_state": "NOT_COVERED",
+      "expected_evidence": [],
+      "reason": "The corpus does not establish the requested specific fact."
+    },
+    {
+      "id": "U15",
+      "question": "Can a student request a replacement examination because of a train cancellation?",
+      "expected_state": "NOT_COVERED",
+      "expected_evidence": [],
+      "reason": "The corpus does not establish the requested specific fact."
+    },
+    {
+      "id": "U16",
+      "question": "What compensation does the university pay when an examination is cancelled after students reach the venue?",
+      "expected_state": "NOT_COVERED",
+      "expected_evidence": [],
+      "reason": "The corpus does not establish the requested specific fact."
+    },
+    {
+      "id": "U17",
+      "question": "How many pages must a final-year project report contain?",
+      "expected_state": "NOT_COVERED",
+      "expected_evidence": [],
+      "reason": "The corpus does not establish the requested specific fact."
+    },
+    {
+      "id": "U18",
+      "question": "What plagiarism percentage automatically causes a project to receive a failing grade?",
+      "expected_state": "NOT_COVERED",
+      "expected_evidence": [],
+      "reason": "The corpus does not establish the requested specific fact."
+    },
+    {
+      "id": "U19",
+      "question": "How long must the university retain evaluated examination answer books?",
+      "expected_state": "NOT_COVERED",
+      "expected_evidence": [],
+      "reason": "The corpus does not establish the requested specific fact."
+    },
+    {
+      "id": "U20",
+      "question": "What is the exact fee for applying for revaluation of one theory paper?",
+      "expected_state": "NOT_COVERED",
+      "expected_evidence": [],
+      "reason": "The corpus does not establish the requested specific fact."
+    },
+    {
+      "id": "U21",
+      "question": "How many revaluation requests may a student submit in one semester?",
+      "expected_state": "NOT_COVERED",
+      "expected_evidence": [],
+      "reason": "The corpus does not establish the requested specific fact."
+    },
+    {
+      "id": "U22",
+      "question": "Can a student appeal a scholarship rejection directly to the Vice-Chancellor?",
+      "expected_state": "NOT_COVERED",
+      "expected_evidence": [],
+      "reason": "The corpus does not establish the requested specific fact."
+    },
+    {
+      "id": "U23",
+      "question": "What is the maximum approved credit load a student may register for in a semester?",
+      "expected_state": "NOT_COVERED",
+      "expected_evidence": [],
+      "reason": "The corpus does not establish the requested specific fact."
+    },
+    {
+      "id": "U24",
+      "question": "How many elective credits can be transferred from another university?",
+      "expected_state": "NOT_COVERED",
+      "expected_evidence": [],
+      "reason": "The corpus does not establish the requested specific fact."
+    },
+    {
+      "id": "U25",
+      "question": "What is the exact notice period required before any examination timetable is changed?",
+      "expected_state": "NOT_COVERED",
+      "expected_evidence": [],
+      "reason": "The corpus does not establish the requested specific fact."
+    }
+  ],
+  "contradiction": [
+    {
+      "id": "C01",
+      "question": "What minimum attendance percentage applies to a student receiving an approved medical exemption?",
+      "expected_state": "CONTRADICTION",
+      "expected_evidence": [
+        {
+          "source": "corpus/academic_regulations.md",
+          "section": "4.8",
+          "value": "60%"
+        },
+        {
+          "source": "corpus/attendance_policy.md",
+          "section": "4.4",
+          "value": "65%"
+        }
+      ]
+    },
+    {
+      "id": "C02",
+      "question": "According to the synthetic regulations, how many subjects may an eligible student use for improvement?",
+      "expected_state": "CONTRADICTION",
+      "expected_evidence": [
+        {
+          "source": "corpus/academic_regulations.md",
+          "section": "7.7",
+          "value": "three"
+        },
+        {
+          "source": "corpus/examination_policy.md",
+          "section": "5.2",
+          "value": "two"
+        }
+      ]
+    },
+    {
+      "id": "C03",
+      "question": "What is the normal deadline for semester tuition payment in the synthetic fee rules?",
+      "expected_state": "CONTRADICTION",
+      "expected_evidence": [
+        {
+          "source": "corpus/fee_deadlines.md",
+          "section": "fee table / 2.1",
+          "value": "15 July"
+        },
+        {
+          "source": "corpus/fee_deadlines.md",
+          "section": "3.1",
+          "value": "31 July"
+        }
+      ]
+    },
+    {
+      "id": "C04",
+      "question": "If both applicable medical attendance provisions are retrieved, should the system report 60% or 65% as the single threshold?",
+      "expected_state": "CONTRADICTION",
+      "expected_evidence": [
+        {
+          "source": "corpus/academic_regulations.md",
+          "section": "4.8",
+          "value": "60%"
+        },
+        {
+          "source": "corpus/attendance_policy.md",
+          "section": "4.4",
+          "value": "65%"
+        }
+      ]
+    },
+    {
+      "id": "C05",
+      "question": "Do the two synthetic examination provisions agree on whether improvement is allowed in two or three subjects?",
+      "expected_state": "CONTRADICTION",
+      "expected_evidence": [
+        {
+          "source": "corpus/academic_regulations.md",
+          "section": "7.7",
+          "value": "three"
+        },
+        {
+          "source": "corpus/examination_policy.md",
+          "section": "5.2",
+          "value": "two"
+        }
+      ]
+    },
+    {
+      "id": "C06",
+      "question": "Which date should be treated as the normal semester tuition deadline when both statements in the fee source are in scope?",
+      "expected_state": "CONTRADICTION",
+      "expected_evidence": [
+        {
+          "source": "corpus/fee_deadlines.md",
+          "section": "fee table / 2.1",
+          "value": "15 July"
+        },
+        {
+          "source": "corpus/fee_deadlines.md",
+          "section": "3.1",
+          "value": "31 July"
+        }
+      ]
+    }
+  ]
+}

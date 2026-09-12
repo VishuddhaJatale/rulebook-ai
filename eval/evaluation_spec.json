@@ -1,0 +1,11 @@
+{
+  "version": "0.1",
+  "required_unanswerable_count": 25,
+  "target_unanswerable_correct": 19,
+  "states": [
+    "ANSWERABLE",
+    "NOT_COVERED",
+    "CONTRADICTION"
+  ],
+  "status": "corpus-stage"
+}

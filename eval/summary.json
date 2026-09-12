@@ -1,0 +1,9 @@
+{
+  "answerable_count": 20,
+  "not_covered_count": 25,
+  "contradiction_count": 6,
+  "total_count": 51,
+  "required_not_covered_count": 25,
+  "not_covered_target_correct": 19,
+  "status": "ground_truth_v0.1"
+}
