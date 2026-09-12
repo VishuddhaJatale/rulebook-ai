@@ -57,6 +57,7 @@ The goal is not simply to build a chatbot that produces plausible answers. The g
 - [Project Status](#project-status)
 - [Future Improvements](#future-improvements)
 - [Demo Instructions](#demo-instructions)
+- [Links](#links)
 
 ---
 
@@ -1772,6 +1773,10 @@ This demonstrates the core behavior of the project in a short sequence.
 ---
 
 # Links
+
+## Live Demo
+
+_Add the deployed application URL here once deployment is complete._
 
 ## Contradiction Documentation
 
