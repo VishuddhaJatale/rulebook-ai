@@ -12,7 +12,7 @@ OUTPUT_FILE = OUTPUT_DIR / "chunks.json"
 
 
 PROVISION_NUMBER_RE = re.compile(
-    r"^\s*(\d+\.\d+(?:\.\d+)*(?:\([a-z]\))?)\s*$"
+    r"^\s*(\d+\.\d+(?:\.\d+)*(?:\([a-z]\))?)(?:\s+|$)"
 )
 
 MARKDOWN_HEADING_RE = re.compile(
@@ -244,17 +244,16 @@ def is_new_provision(candidate, current):
 
 def split_pdf(file_path):
     """
-    Extract PDF provisions using the actual visual/text structure.
+    Extract PDF content while preserving major sections and provisions.
 
-    RGPV PDFs place provision numbers such as 4.5, 4.6 and 4.7
-    on their own lines. We therefore only recognize standalone
-    provision-number lines.
+    A major section can appear as:
+        10.0
+        ATTENDENCE
 
-    This prevents references such as:
+    or as:
+        10.0 ATTENDENCE
 
-        "rule 4.2 and 4.5 above"
-
-    from being mistaken for a new provision.
+    Provisions such as 10.1 are kept as individual chunks.
     """
 
     document = fitz.open(file_path)
@@ -262,9 +261,7 @@ def split_pdf(file_path):
     page_data = []
 
     for page_number, page in enumerate(document, start=1):
-
         text = page.get_text("text")
-
         lines = clean_lines(text)
 
         page_data.append(
@@ -276,22 +273,14 @@ def split_pdf(file_path):
 
     document.close()
 
-    # Collect all lines to discover major sections.
-    all_lines = []
-
-    for page in page_data:
-        all_lines.extend(page["lines"])
-
-    section_map = build_pdf_section_map(all_lines)
-
     chunks = []
 
-    current_lines = []
+    current_section = None
     current_provision = None
+    current_lines = []
     current_pages = []
 
     def flush():
-
         nonlocal current_lines
         nonlocal current_provision
         nonlocal current_pages
@@ -302,21 +291,13 @@ def split_pdf(file_path):
         text = "\n".join(current_lines).strip()
 
         if text:
-
-            section = get_section_from_provision(
-                current_provision,
-                section_map,
-            )
-
             chunks.append(
                 {
                     "text": text,
                     "source": file_path.name,
-                    "page": current_pages[0]
-                    if current_pages
-                    else None,
+                    "page": current_pages[0] if current_pages else None,
                     "pages": sorted(set(current_pages)),
-                    "section": section,
+                    "section": current_section,
                     "provision": current_provision,
                     "file_type": "pdf",
                 }
@@ -329,10 +310,64 @@ def split_pdf(file_path):
     for page in page_data:
 
         page_number = page["page"]
+        lines = page["lines"]
 
-        for line in page["lines"]:
+        i = 0
 
-            # Only standalone numbers such as "4.6".
+        while i < len(lines):
+
+            line = lines[i].strip()
+
+            # -------------------------------------------------
+            # Detect major section number such as:
+            #
+            # 10.0
+            # ATTENDENCE
+            #
+            # or:
+            #
+            # 10.0 ATTENDENCE
+            # -------------------------------------------------
+
+            section_match = re.match(
+                r"^\s*(\d+)\.0(?:\s+(.*))?$",
+                line,
+            )
+
+            if section_match:
+
+                # Finish the previous provision.
+                flush()
+
+                section_number = section_match.group(1)
+                section_title = section_match.group(2)
+
+                # If title is on the next line, use it.
+                if not section_title and i + 1 < len(lines):
+
+                    next_line = lines[i + 1].strip()
+
+                    # Don't accidentally use a provision as a title.
+                    if not PROVISION_NUMBER_RE.match(next_line):
+                        section_title = next_line
+                        i += 1
+
+                if section_title:
+                    current_section = (
+                        f"{section_number}.0 {section_title}"
+                    )
+                else:
+                    current_section = f"{section_number}.0"
+
+                i += 1
+                continue
+
+            # -------------------------------------------------
+            # Detect standalone provision such as:
+            #
+            # 10.1
+            # -------------------------------------------------
+
             provision_match = PROVISION_NUMBER_RE.match(line)
 
             if provision_match:
@@ -341,18 +376,22 @@ def split_pdf(file_path):
                 flush()
 
                 current_provision = provision_match.group(1)
-
                 current_lines = [line]
-
                 current_pages = [page_number]
 
+                i += 1
                 continue
 
-            # Normal text.
+            # -------------------------------------------------
+            # Normal content
+            # -------------------------------------------------
+
             current_lines.append(line)
 
             if page_number not in current_pages:
                 current_pages.append(page_number)
+
+            i += 1
 
     flush()
 

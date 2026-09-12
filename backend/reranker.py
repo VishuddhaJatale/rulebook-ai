@@ -1,6 +1,6 @@
 from sentence_transformers import CrossEncoder
 
-from retrieval import SemanticRetriever
+from .retrieval import SemanticRetriever
 
 
 MODEL_NAME = "cross-encoder/ms-marco-MiniLM-L-6-v2"

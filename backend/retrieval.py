@@ -20,7 +20,15 @@ class SemanticRetriever:
         with CHUNKS_FILE.open("r", encoding="utf-8") as f:
             self.chunks = json.load(f)
 
-        texts = [chunk["text"] for chunk in self.chunks]
+        texts = [
+            f"""
+            Source: {chunk['source']}
+            Section: {chunk.get('section', '')}
+            Provision: {chunk.get('provision', '')}
+            Content: {chunk['text']}
+            """.strip()
+            for chunk in self.chunks
+        ]
 
         embeddings = self.model.encode(
             texts,
@@ -72,7 +80,7 @@ def main():
         if question.lower() == "exit":
             break
 
-        results = retriever.search(question, top_k=10)
+        results = retriever.search(question, top_k=30)
 
         print("\nTop evidence:\n")
 
