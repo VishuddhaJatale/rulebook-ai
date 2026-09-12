@@ -1,0 +1,2870 @@
+[
+  {
+    "text": "> **Corpus status:** Synthetic evaluation material created for the Rulebook AI project.\n> It is not an official regulation of RGPV or any other university.\n>\n> The two RGPV ordinance PDFs stored beside this file are preserved as external source\n> documents. This synthetic corpus is deliberately written in a university-regulation\n> style so that the application can be evaluated on a controlled, auditable corpus.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "University Academic Regulations — Project Evaluation Corpus",
+    "provision": null,
+    "file_type": "markdown",
+    "chunk_id": "chunk_0000"
+  },
+  {
+    "text": "1.1 These regulations govern ordinary undergraduate academic administration for students\nregistered in a four-year degree programme. They describe admission, registration,\nattendance, examinations, progression, academic standing, projects, results, appeals,\nand related administrative processes.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "1. Scope and definitions",
+    "provision": "1.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0001"
+  },
+  {
+    "text": "1.2 “Academic year” means the period beginning with the first teaching semester and\nending after the associated summer examination and result-processing period. A\n“semester” means an approved teaching and assessment period identified by the\nacademic calendar.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "1. Scope and definitions",
+    "provision": "1.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0002"
+  },
+  {
+    "text": "1.3 “Programme” means the degree programme in which a student is formally enrolled.\n“Department” means the academic department responsible for that programme. “Dean”\nmeans the Dean of Academic Affairs or an officer formally exercising that authority.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "1. Scope and definitions",
+    "provision": "1.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0003"
+  },
+  {
+    "text": "1.4 “Examination” includes an end-semester examination, a scheduled practical\nexamination, an approved project evaluation, or another assessment identified as a\nuniversity-level examination in the applicable scheme.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "1. Scope and definitions",
+    "provision": "1.4",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0004"
+  },
+  {
+    "text": "1.5 “Working day” means a day on which the university's administrative offices are\nopen, excluding declared university holidays. A deadline falling on a non-working day\nmoves to the next working day unless the notice establishing that deadline expressly\nstates otherwise.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "1. Scope and definitions",
+    "provision": "1.5",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0005"
+  },
+  {
+    "text": "1.6 These rules must be read together with the programme scheme, approved academic\ncalendar, examination notices, and any regulation expressly incorporated by reference.\nWhere a rule identifies a specific cohort, programme, or assessment, that scope controls\nits application.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "1. Scope and definitions",
+    "provision": "1.6",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0006"
+  },
+  {
+    "text": "2.1 Admission is subject to the eligibility conditions published for the relevant\nprogramme and admission cycle. Meeting a minimum academic qualification does not by\nitself guarantee admission because seats, merit, category requirements, and applicable\ngovernment directions may also govern the process.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "2. Admission and initial registration",
+    "provision": "2.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0007"
+  },
+  {
+    "text": "2.2 A student admitted through a recognized diploma or lateral-entry route shall be\nregistered in the semester specified by the admission authority. The student's\nprogramme record must identify the entry route so that progression and credit\nrequirements can be applied correctly.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "2. Admission and initial registration",
+    "provision": "2.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0008"
+  },
+  {
+    "text": "2.3 At first registration, the student shall provide the documents required by the\nadmission office. Where an original document cannot immediately be produced, the\nadmission office may accept a verified undertaking for a limited period if its notice\npermits that procedure.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "2. Admission and initial registration",
+    "provision": "2.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0009"
+  },
+  {
+    "text": "2.4 A registration number shall be assigned after the admission record is verified.\nStudents must use the assigned registration number in examination forms, fee\ntransactions, project records, and formal academic correspondence.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "2. Admission and initial registration",
+    "provision": "2.4",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0010"
+  },
+  {
+    "text": "2.5 Admission may be cancelled where material information supplied during admission is\nfound to be false or where a mandatory eligibility condition was not satisfied. Before\ncancellation on the basis of disputed information, the student should be given an\nopportunity to submit an explanation and supporting records unless a statutory direction\nrequires immediate action.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "2. Admission and initial registration",
+    "provision": "2.5",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0011"
+  },
+  {
+    "text": "2.6 A student transferring between programmes must satisfy the conditions notified by\nthe university and the receiving department. Previously earned credits do not\nautomatically transfer. The receiving academic authority must identify which credits,\nif any, are accepted toward the new programme.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "2. Admission and initial registration",
+    "provision": "2.6",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0012"
+  },
+  {
+    "text": "2.7 A student may not simultaneously hold ordinary full-time registration in two\nprogrammes of the university unless a specific university scheme expressly permits the\ncombination.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "2. Admission and initial registration",
+    "provision": "2.7",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0013"
+  },
+  {
+    "text": "3.1 The Academic Council shall approve the academic calendar for each academic year.\nThe calendar shall normally identify commencement of teaching, examination windows,\nvacations, registration periods, result-processing milestones, and major administrative\ndeadlines.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "3. Academic calendar and teaching",
+    "provision": "3.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0014"
+  },
+  {
+    "text": "3.2 Each semester should provide at least fourteen teaching weeks unless an approved\nexception applies. Departments shall publish a timetable showing lectures, tutorials,\npractical sessions, and other scheduled academic activities.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "3. Academic calendar and teaching",
+    "provision": "3.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0015"
+  },
+  {
+    "text": "3.3 A change to the published timetable should be communicated through an official\ndepartmental or university channel. Students are responsible for checking those\nchannels during the semester.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "3. Academic calendar and teaching",
+    "provision": "3.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0016"
+  },
+  {
+    "text": "3.4 A department may arrange compensatory classes when teaching is lost because of an\ninstitutional closure or an unavoidable academic disruption. The purpose of a\ncompensatory class is to preserve the approved teaching plan and it may be scheduled\noutside the ordinary timetable when reasonable notice is provided.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "3. Academic calendar and teaching",
+    "provision": "3.4",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0017"
+  },
+  {
+    "text": "3.5 Attendance is recorded separately for each course and for each attendance category\nidentified in the course scheme. A student's attendance percentage is calculated from\nthe sessions that are recorded as delivered and for which the student was expected to\nattend.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "3. Academic calendar and teaching",
+    "provision": "3.5",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0018"
+  },
+  {
+    "text": "3.6 Attendance records should be made available for review before the examination-form\ndeadline. A student who believes an entry is incorrect may submit a correction request\nwith supporting information.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "3. Academic calendar and teaching",
+    "provision": "3.6",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0019"
+  },
+  {
+    "text": "3.7 Departments shall retain attendance records for the period prescribed for academic\nrecords. Corrections must be supported by the class register, approved activity record,\nor another reliable institutional source.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "3. Academic calendar and teaching",
+    "provision": "3.7",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0020"
+  },
+  {
+    "text": "4.1 A student appearing as a regular candidate for an end-semester examination shall\nordinarily have at least 75 percent attendance in the lectures and practical classes\nprescribed separately for each course.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "4. Attendance and attendance relief",
+    "provision": "4.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0021"
+  },
+  {
+    "text": "4.2 A shortfall may be considered for condonation only under the categories and\nauthority specified in the applicable attendance notice. Condonation is not an automatic\nentitlement merely because a student's percentage is close to the threshold.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "4. Attendance and attendance relief",
+    "provision": "4.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0022"
+  },
+  {
+    "text": "4.3 A request for attendance relief must normally identify the affected dates, the\ncourse or courses concerned, the reason for absence, and the documentary evidence\navailable to support the request.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "4. Attendance and attendance relief",
+    "provision": "4.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0023"
+  },
+  {
+    "text": "4.4 Medical circumstances must be supported by documentation issued or authenticated\nthrough a recognized medical provider. The university may require additional\nverification where the duration or circumstances of the absence make verification\nreasonable.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "4. Attendance and attendance relief",
+    "provision": "4.4",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0024"
+  },
+  {
+    "text": "4.5 Participation in an officially authorized university activity may be treated as\nattendance for the affected academic activity where the competent authority has issued\nthe required authorization before or after the event.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "4. Attendance and attendance relief",
+    "provision": "4.5",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0025"
+  },
+  {
+    "text": "4.6 Personal travel, ordinary social engagements, family functions, and private\nappointments are not, by themselves, categories of guaranteed attendance relief.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "4. Attendance and attendance relief",
+    "provision": "4.6",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0026"
+  },
+  {
+    "text": "4.7 A student whose attendance remains below the applicable requirement after all\npermitted condonation has been considered shall not be treated as eligible solely on\nthe basis of an application that is still pending.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "4. Attendance and attendance relief",
+    "provision": "4.7",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0027"
+  },
+  {
+    "text": "4.8 **Evaluation contradiction A — medical threshold.** Section 4.8 of this synthetic\ndocument states that an approved medical exemption may be granted only when attendance\nis at least **60 percent**. This rule is intentionally inconsistent with Section 9.3 of\nthe synthetic Attendance Administration Policy, which requires **65 percent** for the\nsame medical-exemption situation. The conflict is deliberate and is documented in\n`docs/contradictions.md`.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "4. Attendance and attendance relief",
+    "provision": "4.8",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0028"
+  },
+  {
+    "text": "5.1 Students shall register for the courses prescribed for their semester or for\napproved backlog/improvement courses within the registration period.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "5. Course registration and credits",
+    "provision": "5.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0029"
+  },
+  {
+    "text": "5.2 A course shall carry the number of credits approved in the programme curriculum.\nCredits are earned only after the student satisfies the passing requirements of the\ncourse.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "5. Course registration and credits",
+    "provision": "5.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0030"
+  },
+  {
+    "text": "5.3 A student may be prevented from registering for a course where a prerequisite\ncourse has not been passed, where the course is not offered, or where a programme\nrestriction applies.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "5. Course registration and credits",
+    "provision": "5.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0031"
+  },
+  {
+    "text": "5.4 Departments shall publish prerequisite relationships sufficiently before\nregistration. A prerequisite should not be inferred merely from the similarity of two\ncourse names.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "5. Course registration and credits",
+    "provision": "5.4",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0032"
+  },
+  {
+    "text": "5.5 Students are responsible for checking their registered course list after the\nregistration window closes. An incorrect registration must be reported within the\ncorrection period specified by the academic calendar.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "5. Course registration and credits",
+    "provision": "5.5",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0033"
+  },
+  {
+    "text": "5.6 A student who completes an approved elective but subsequently changes programme\nmay retain the elective credit only if the receiving programme accepts it as part of\nthe approved curriculum.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "5. Course registration and credits",
+    "provision": "5.6",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0034"
+  },
+  {
+    "text": "5.7 The minimum credits required for graduation are those stated in the approved\ncurriculum for the student's admission cohort. A student cannot substitute a higher\nnumber of credits in one category for a missing mandatory course unless an approved\nscheme expressly allows the substitution.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "5. Course registration and credits",
+    "provision": "5.7",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0035"
+  },
+  {
+    "text": "6.1 University examinations shall be conducted according to the approved examination\nschedule. The examination notice shall identify the date, time, venue or mode, and\ncourses included in the examination.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "6. Examinations",
+    "provision": "6.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0036"
+  },
+  {
+    "text": "6.2 A student must complete the examination form and pay the applicable examination\nfee within the notified period. Submission of a form without the required fee does not\nautomatically constitute a completed examination entry.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "6. Examinations",
+    "provision": "6.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0037"
+  },
+  {
+    "text": "6.3 An admit card or examination authorization shall be issued after the examination\nentry is verified. A student must report discrepancies promptly rather than assuming\nthat an incorrect entry will be corrected automatically.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "6. Examinations",
+    "provision": "6.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0038"
+  },
+  {
+    "text": "6.4 A candidate shall comply with the instructions printed on the question paper,\nadmit card, and examination notice. Possession of prohibited material or unauthorized\nelectronic equipment may result in action under the examination misconduct procedure.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "6. Examinations",
+    "provision": "6.4",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0039"
+  },
+  {
+    "text": "6.5 A student arriving after the permitted reporting period may be refused entry where\nthe examination instructions prescribe a fixed entry restriction.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "6. Examinations",
+    "provision": "6.5",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0040"
+  },
+  {
+    "text": "6.6 A student who is absent from an examination is recorded as absent unless an\napproved procedure provides a different result. The regulations do not create a\ngeneral right to a replacement examination for every reason for absence.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "6. Examinations",
+    "provision": "6.6",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0041"
+  },
+  {
+    "text": "6.7 A medical emergency affecting an examination should be reported through the\nprocedure and within the time specified by the examination authority. Supporting\ndocumentation may be required before a special consideration is granted.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "6. Examinations",
+    "provision": "6.7",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0042"
+  },
+  {
+    "text": "6.8 A family wedding, ordinary travel difficulty, or personal scheduling conflict is\nnot expressly defined in this corpus as a qualifying ground for a replacement\nexamination.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "6. Examinations",
+    "provision": "6.8",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0043"
+  },
+  {
+    "text": "6.9 Practical examinations may require attendance at a specified laboratory venue and\nmay include an external examiner where required by the approved scheme.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "6. Examinations",
+    "provision": "6.9",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0044"
+  },
+  {
+    "text": "6.10 Project evaluations shall follow the approved project scheme. The scheme may\nallocate marks between proposal, implementation, documentation, presentation, and\nfinal evaluation.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "6. Examinations",
+    "provision": "6.10",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0045"
+  },
+  {
+    "text": "7.1 Each course shall have a published assessment scheme. The scheme may combine\ncontinuous assessment, mid-semester assessment, laboratory work, assignments, and an\nend-semester examination.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "7. Passing, grades, and academic standing",
+    "provision": "7.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0046"
+  },
+  {
+    "text": "7.2 The minimum passing grade for a course is the grade specified in the approved\nscheme applicable to the student's cohort.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "7. Passing, grades, and academic standing",
+    "provision": "7.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0047"
+  },
+  {
+    "text": "7.3 A student who receives a failing grade in a course may be required to reappear in\nthe prescribed assessment or examination. The applicable examination notice shall\nidentify the available attempt.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "7. Passing, grades, and academic standing",
+    "provision": "7.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0048"
+  },
+  {
+    "text": "7.4 A student's semester performance may be summarized through a Semester Grade Point\nAverage (SGPA), while cumulative performance may be summarized through a Cumulative\nGrade Point Average (CGPA). The calculation shall use the approved credit weight of\neach course.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "7. Passing, grades, and academic standing",
+    "provision": "7.4",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0049"
+  },
+  {
+    "text": "7.5 The university may publish grade-point equivalents and division thresholds for\nthe applicable grading system. A student should not assume that a percentage-to-grade\nconversion from an older regulation applies to a later admission cohort.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "7. Passing, grades, and academic standing",
+    "provision": "7.5",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0050"
+  },
+  {
+    "text": "7.6 A candidate must satisfy all mandatory course and credit requirements before the\ndegree can be awarded. Passing a sufficient number of elective credits does not replace\na mandatory course unless substitution is formally approved.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "7. Passing, grades, and academic standing",
+    "provision": "7.6",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0051"
+  },
+  {
+    "text": "7.7 **Evaluation contradiction B — improvement attempts.** Section 7.7 of this\nsynthetic document states that a student may improve results in **three** theory or\npractical subjects after satisfying the other improvement conditions. This intentionally\nconflicts with Section 6.4 of the synthetic Examination Administration Policy, which\nstates that improvement is permitted in **two** subjects. The conflict is deliberate and\ndocumented in `docs/contradictions.md`.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "7. Passing, grades, and academic standing",
+    "provision": "7.7",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0052"
+  },
+  {
+    "text": "7.8 Academic standing may be affected by failed courses, insufficient credits,\nprogression restrictions, or failure to satisfy programme-specific conditions. The\nstudent portal may display a provisional status until official results are approved.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "7. Passing, grades, and academic standing",
+    "provision": "7.8",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0053"
+  },
+  {
+    "text": "8.1 A student may progress to a higher semester only when the progression conditions\nfor the student's admission cohort and programme have been satisfied.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "8. Progression and backlog",
+    "provision": "8.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0054"
+  },
+  {
+    "text": "8.2 Where a rule specifies a maximum number of failed subjects or backlog credits,\nthe count shall be made according to the definitions in that rule. Theory and practical\ncomponents may be counted separately where the applicable rule says so.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "8. Progression and backlog",
+    "provision": "8.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0055"
+  },
+  {
+    "text": "8.3 A student who is provisionally permitted to attend a higher semester before the\nqualifying result is declared does not acquire a permanent right to progression if the\nqualifying result subsequently fails to satisfy the progression requirement.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "8. Progression and backlog",
+    "provision": "8.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0056"
+  },
+  {
+    "text": "8.4 A department shall publish the list of students whose progression is blocked or\nconditional after official results are processed.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "8. Progression and backlog",
+    "provision": "8.4",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0057"
+  },
+  {
+    "text": "8.5 A student whose progression is blocked may use the notified appeal or review\nprocedure. Filing an appeal does not automatically suspend an academic deadline unless\nthe competent authority grants such relief.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "8. Progression and backlog",
+    "provision": "8.5",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0058"
+  },
+  {
+    "text": "8.6 A student carrying a backlog must register for the backlog assessment when the\ncourse is offered and when the registration rules permit it. A backlog course is not\nconsidered cleared merely because the student attended its classes again.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "8. Progression and backlog",
+    "provision": "8.6",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0059"
+  },
+  {
+    "text": "8.7 A student should consult the programme's approved curriculum before assuming that\na failed elective can be replaced by another elective. Replacement may require\ndepartmental approval.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "8. Progression and backlog",
+    "provision": "8.7",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0060"
+  },
+  {
+    "text": "9.1 A final-year project shall be undertaken under the supervision arrangements\nspecified by the department. The department may assign a supervisor or approve a\nstudent-proposed supervisor.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "9. Academic projects and practical training",
+    "provision": "9.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0061"
+  },
+  {
+    "text": "9.2 Project evaluation shall consider the components stated in the approved project\nscheme. A project report submitted after the published deadline may be subject to the\nlate-submission rules.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "9. Academic projects and practical training",
+    "provision": "9.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0062"
+  },
+  {
+    "text": "9.3 Industrial training shall be completed for the duration and credit value approved\nin the curriculum. Students must submit the required completion certificate and report.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "9. Academic projects and practical training",
+    "provision": "9.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0063"
+  },
+  {
+    "text": "9.4 A student may not claim attendance at an industrial training placement solely\nbecause the placement was listed in an application. The placement must be verified\nthrough the documents required by the department.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "9. Academic projects and practical training",
+    "provision": "9.4",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0064"
+  },
+  {
+    "text": "9.5 Project groups must maintain an auditable record of contributions where group\nassessment is used. Individual performance may be considered where the scheme permits\nindividual differentiation.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "9. Academic projects and practical training",
+    "provision": "9.5",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0065"
+  },
+  {
+    "text": "9.6 Plagiarism, fabrication of project results, or submission of another student's work\nmay be treated as academic misconduct under the applicable procedure.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "9. Academic projects and practical training",
+    "provision": "9.6",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0066"
+  },
+  {
+    "text": "10.1 Results are provisional until approved through the university's result process.\nThe publication of an online result does not prevent correction of a clerical or\nprocessing error discovered through an authorized review.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "10. Results, revaluation, and scrutiny",
+    "provision": "10.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0067"
+  },
+  {
+    "text": "10.2 A student may request scrutiny or revaluation only in the manner and within the\nperiod announced for the relevant examination.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "10. Results, revaluation, and scrutiny",
+    "provision": "10.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0068"
+  },
+  {
+    "text": "10.3 A revaluation request must identify the examination and course and must include\nthe prescribed fee where a fee is applicable. Requests submitted after the deadline\nmay be rejected without consideration on merits.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "10. Results, revaluation, and scrutiny",
+    "provision": "10.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0069"
+  },
+  {
+    "text": "10.4 Revaluation does not guarantee an increase in marks. The final result is determined\naccording to the applicable revaluation procedure.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "10. Results, revaluation, and scrutiny",
+    "provision": "10.4",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0070"
+  },
+  {
+    "text": "10.5 Where a tabulation error is established, the university may correct the result\nthrough the authorized process. A correction should preserve an audit trail showing\nthe original and corrected entry.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "10. Results, revaluation, and scrutiny",
+    "provision": "10.5",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0071"
+  },
+  {
+    "text": "10.6 Students should retain their grade sheets, fee receipts, examination forms, and\nother records needed to establish their academic history.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "10. Results, revaluation, and scrutiny",
+    "provision": "10.6",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0072"
+  },
+  {
+    "text": "11.1 Academic misconduct includes cheating, unauthorized collaboration, plagiarism,\nfabrication of records, impersonation, and other conduct prohibited by the applicable\nexamination or academic-integrity procedure.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "11. Academic misconduct",
+    "provision": "11.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0073"
+  },
+  {
+    "text": "11.2 The response to alleged misconduct shall follow the prescribed process and may\ninclude an opportunity for the student to provide an explanation.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "11. Academic misconduct",
+    "provision": "11.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0074"
+  },
+  {
+    "text": "11.3 Possession of a prohibited device in an examination hall may constitute misconduct\neven if the student did not use the device, where the examination instructions\nexpressly prohibit possession.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "11. Academic misconduct",
+    "provision": "11.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0075"
+  },
+  {
+    "text": "11.4 A student should not publish confidential examination material or distribute\nrestricted assessment content through messaging services or public platforms.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "11. Academic misconduct",
+    "provision": "11.4",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0076"
+  },
+  {
+    "text": "11.5 Penalties shall be imposed only by the authority empowered under the applicable\nprocedure. A teaching assistant or student representative cannot independently impose\na university disciplinary penalty.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "11. Academic misconduct",
+    "provision": "11.5",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0077"
+  },
+  {
+    "text": "12.1 Scholarships administered by the university are subject to the eligibility,\ndocumentation, and continuation requirements of the relevant scheme.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "12. Scholarships and financial assistance",
+    "provision": "12.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0078"
+  },
+  {
+    "text": "12.2 A scholarship may depend on academic performance, attendance, family income,\ncategory, or other criteria expressly stated by the sponsoring authority.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "12. Scholarships and financial assistance",
+    "provision": "12.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0079"
+  },
+  {
+    "text": "12.3 A student receiving a scholarship must report a change that affects eligibility\nwhen the scheme requires such reporting.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "12. Scholarships and financial assistance",
+    "provision": "12.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0080"
+  },
+  {
+    "text": "12.4 Scholarship applications shall be submitted through the notified portal or office\nwithin the published application period.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "12. Scholarships and financial assistance",
+    "provision": "12.4",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0081"
+  },
+  {
+    "text": "12.5 A late scholarship application is not automatically accepted merely because the\nstudent was unaware of the deadline. Any relaxation must come from the authority\nempowered by the applicable scheme.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "12. Scholarships and financial assistance",
+    "provision": "12.5",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0082"
+  },
+  {
+    "text": "12.6 The university may verify scholarship documents with the issuing institution or\ngovernment database where permitted.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "12. Scholarships and financial assistance",
+    "provision": "12.6",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0083"
+  },
+  {
+    "text": "13.1 Hostel accommodation is subject to room-allocation rules, capacity, eligibility,\nand payment of the applicable charges.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "13. Hostel and residential conduct",
+    "provision": "13.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0084"
+  },
+  {
+    "text": "13.2 Residents must comply with quiet hours, visitor requirements, safety instructions,\nand reasonable directions of authorized hostel staff.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "13. Hostel and residential conduct",
+    "provision": "13.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0085"
+  },
+  {
+    "text": "13.3 A resident shall not transfer an allotted room or bed to another student without\nwritten permission.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "13. Hostel and residential conduct",
+    "provision": "13.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0086"
+  },
+  {
+    "text": "13.4 Overnight absence from the hostel may require an entry or leave record where the\nhostel handbook prescribes such a procedure.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "13. Hostel and residential conduct",
+    "provision": "13.4",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0087"
+  },
+  {
+    "text": "13.5 Emergency maintenance issues should be reported through the designated hostel\nchannel. Students should not undertake electrical or structural alterations to hostel\nproperty.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "13. Hostel and residential conduct",
+    "provision": "13.5",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0088"
+  },
+  {
+    "text": "13.6 The hostel administration may issue notices about inspections, maintenance,\nclosures, and room changes. Such notices must identify the affected residents and the\nperiod of the action where practicable.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "13. Hostel and residential conduct",
+    "provision": "13.6",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0089"
+  },
+  {
+    "text": "14.1 The university's official email, student portal, notice board, or another channel\nidentified in an official notice may be used for academic communication.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "14. Student records and official communication",
+    "provision": "14.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0090"
+  },
+  {
+    "text": "14.2 Students are responsible for keeping their contact details current. A student\ncannot ordinarily claim that a notice was invalid merely because a personal email\naddress was outdated when the university used the designated official channel.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "14. Student records and official communication",
+    "provision": "14.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0091"
+  },
+  {
+    "text": "14.3 Academic records should contain sufficient identifiers to distinguish students\nwith similar names.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "14. Student records and official communication",
+    "provision": "14.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0092"
+  },
+  {
+    "text": "14.4 Requests for correction of student records should identify the incorrect field and\nprovide supporting documentation.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "14. Student records and official communication",
+    "provision": "14.4",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0093"
+  },
+  {
+    "text": "14.5 The university may retain academic records for the period required by its records\npolicy or applicable law.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "14. Student records and official communication",
+    "provision": "14.5",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0094"
+  },
+  {
+    "text": "15.1 A student may appeal an academic administrative decision where the applicable\nrule provides an appeal route.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "15. Appeals and administrative review",
+    "provision": "15.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0095"
+  },
+  {
+    "text": "15.2 An appeal should state the decision being challenged, the grounds for review, and\nthe remedy requested. Supporting documents should be attached where relevant.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "15. Appeals and administrative review",
+    "provision": "15.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0096"
+  },
+  {
+    "text": "15.3 An appeal against a decision does not automatically suspend the decision unless\nthe appeal authority grants interim relief.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "15. Appeals and administrative review",
+    "provision": "15.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0097"
+  },
+  {
+    "text": "15.4 The appeal authority may request records from the department, examination office,\nor other responsible unit.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "15. Appeals and administrative review",
+    "provision": "15.4",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0098"
+  },
+  {
+    "text": "15.5 A decision issued on appeal should identify the authority making the decision and\nthe date on which it takes effect.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "15. Appeals and administrative review",
+    "provision": "15.5",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0099"
+  },
+  {
+    "text": "15.6 Where two provisions of this synthetic corpus are intentionally inconsistent, the\napplication must not silently choose one rule. It must expose the competing evidence\nand label the result as contradictory unless an explicit scope or precedence rule\nresolves the conflict.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "15. Appeals and administrative review",
+    "provision": "15.6",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0100"
+  },
+  {
+    "text": "16.1 Questions about the interpretation of these regulations should first be directed\nto the office identified in the applicable notice.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "16. Interpretation and precedence",
+    "provision": "16.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0101"
+  },
+  {
+    "text": "16.2 A later rule does not automatically override an earlier rule unless the later\ninstrument expressly amends, replaces, or supersedes the earlier provision.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "16. Interpretation and precedence",
+    "provision": "16.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0102"
+  },
+  {
+    "text": "16.3 A programme-specific provision applies to that programme when its scope is clear.\nA general provision applies where no more specific provision governs the same matter.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "16. Interpretation and precedence",
+    "provision": "16.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0103"
+  },
+  {
+    "text": "16.4 A rule concerning an identified admission cohort must not be applied to a different\ncohort without evidence that the rule was made applicable to that cohort.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "16. Interpretation and precedence",
+    "provision": "16.4",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0104"
+  },
+  {
+    "text": "16.5 If the available corpus contains two rules that both clearly apply to the same\nstudent, same situation, and same time period but prescribe incompatible outcomes, the\nsystem should identify the conflict rather than manufacture a reconciliation.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "16. Interpretation and precedence",
+    "provision": "16.5",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0105"
+  },
+  {
+    "text": "17.1 A degree shall be awarded only after the student has satisfied the approved\ncurriculum, credit, examination, and other mandatory programme requirements.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "17. Graduation and degree award",
+    "provision": "17.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0106"
+  },
+  {
+    "text": "17.2 The final academic record shall reflect the student's approved results and\ngraduation status.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "17. Graduation and degree award",
+    "provision": "17.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0107"
+  },
+  {
+    "text": "17.3 A student with an unresolved mandatory course, required credit, or progression\ncondition is not eligible for final degree award until that condition is cleared.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "17. Graduation and degree award",
+    "provision": "17.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0108"
+  },
+  {
+    "text": "17.4 The university may issue a provisional certificate where the applicable procedure\npermits it and all stated conditions for issuance are satisfied.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "17. Graduation and degree award",
+    "provision": "17.4",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0109"
+  },
+  {
+    "text": "17.5 Students should verify their final course and credit audit before the graduation\nprocessing deadline.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "17. Graduation and degree award",
+    "provision": "17.5",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0110"
+  },
+  {
+    "text": "18.1 Students are expected to read official notices affecting their academic status and\nto meet published deadlines.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "18. General student responsibilities",
+    "provision": "18.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0111"
+  },
+  {
+    "text": "18.2 A student should retain copies of applications and receipts for matters where\nproof of submission may later be required.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "18. General student responsibilities",
+    "provision": "18.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0112"
+  },
+  {
+    "text": "18.3 No employee or student representative may promise an outcome that requires approval\nfrom another competent authority.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "18. General student responsibilities",
+    "provision": "18.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0113"
+  },
+  {
+    "text": "18.4 Informal advice from classmates, teaching staff, or administrative staff should\nnot be treated as an official amendment to a regulation.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "18. General student responsibilities",
+    "provision": "18.4",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0114"
+  },
+  {
+    "text": "18.5 Where this corpus is silent on a specific circumstance, the application must say\nthat the available rules do not establish an answer. It must not invent a university\npolicy from common practice at other institutions.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "18. General student responsibilities",
+    "provision": "18.5",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0115"
+  },
+  {
+    "text": "19.1 This corpus intentionally contains exactly three evaluation contradictions. They\nare not accidental errors in the dataset. They exist to test whether a retrieval and\nreasoning system can surface incompatible rules instead of producing a confident,\nunsupported answer.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "19. Synthetic conflict notice",
+    "provision": "19.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0116"
+  },
+  {
+    "text": "19.2 The contradiction register identifies the source file, section, competing\nprovision, and intended test question for each planted conflict.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "19. Synthetic conflict notice",
+    "provision": "19.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0117"
+  },
+  {
+    "text": "19.3 Apart from those registered conflicts, differences between the two official RGPV\nordinance PDFs should be treated as source-version differences unless the documents\nthemselves establish that the provisions apply simultaneously to the same population\nand period.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "19. Synthetic conflict notice",
+    "provision": "19.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0118"
+  },
+  {
+    "text": "20.1 The synthetic rules in this file are intended only for software evaluation. They\nmust not be represented to a student as official university policy.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "20. Corpus-use notice",
+    "provision": "20.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0119"
+  },
+  {
+    "text": "20.2 The application should display the corpus identity and source metadata whenever it\nanswers a question. The purpose is to make the provenance of an answer visible.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "20. Corpus-use notice",
+    "provision": "20.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0120"
+  },
+  {
+    "text": "20.3 When an answer depends on a specific provision, the application should expose the\nsection and source location used to support the claim.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "20. Corpus-use notice",
+    "provision": "20.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0121"
+  },
+  {
+    "text": "20.4 When evidence is insufficient, the application should distinguish “not covered”\nfrom “the system failed to retrieve evidence.” Evaluation logs should preserve enough\ninformation to investigate such failures.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "20. Corpus-use notice",
+    "provision": "20.4",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0122"
+  },
+  {
+    "text": "20.5 The final evaluation should report the measured performance of the implemented\nsystem rather than claiming perfect accuracy without testing.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "20. Corpus-use notice",
+    "provision": "20.5",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0123"
+  },
+  {
+    "text": "21.1 During the registration correction period, a student may request removal of an\nincorrectly added course, addition of an eligible course, or correction of a course\ncode where the registration record does not match the approved registration.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "21. Registration corrections and academic status",
+    "provision": "21.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0124"
+  },
+  {
+    "text": "21.2 A correction request must be supported by the student's registration receipt,\ndepartment approval, or another record accepted by the academic office.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "21. Registration corrections and academic status",
+    "provision": "21.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0125"
+  },
+  {
+    "text": "21.3 A department may reject a requested change when the change would create a\nprerequisite violation, exceed an approved credit load, or occur after the correction\nperiod without an authorized exception.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "21. Registration corrections and academic status",
+    "provision": "21.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0126"
+  },
+  {
+    "text": "21.4 Students should check whether a requested correction changes their examination\neligibility, fee liability, attendance record, or graduation audit.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "21. Registration corrections and academic status",
+    "provision": "21.4",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0127"
+  },
+  {
+    "text": "21.5 A course appearing on a student's timetable does not by itself prove that the\ncourse was formally registered. The official registration record is the controlling\nacademic record.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "21. Registration corrections and academic status",
+    "provision": "21.5",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0128"
+  },
+  {
+    "text": "21.6 Where a student believes two official systems display different registration\ninformation, the student should report the discrepancy to the designated academic\noffice. The system should not infer which record is correct solely from a screenshot.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "21. Registration corrections and academic status",
+    "provision": "21.6",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0129"
+  },
+  {
+    "text": "22.1 The examination office shall publish the examination timetable through an official\nchannel. A timetable may be revised when an administrative, institutional, or\nunavoidable operational circumstance requires a change.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "22. Examination scheduling and postponement",
+    "provision": "22.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0130"
+  },
+  {
+    "text": "22.2 When an examination is rescheduled, the revised notice supersedes the earlier\ntimetable for the examination identified in the notice, unless the notice states that\nthe earlier schedule remains valid.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "22. Examination scheduling and postponement",
+    "provision": "22.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0131"
+  },
+  {
+    "text": "22.3 Students are expected to verify revised schedules rather than rely exclusively on\na timetable downloaded before a revision.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "22. Examination scheduling and postponement",
+    "provision": "22.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0132"
+  },
+  {
+    "text": "22.4 A postponement of one examination does not automatically postpone other\nexaminations in the same semester.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "22. Examination scheduling and postponement",
+    "provision": "22.4",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0133"
+  },
+  {
+    "text": "22.5 The examination office may arrange different sessions for courses with approved\nspecial requirements. A student must attend the session assigned to the student's\nregistration record unless an authorized change is granted.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "22. Examination scheduling and postponement",
+    "provision": "22.5",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0134"
+  },
+  {
+    "text": "22.6 The corpus does not specify a universal number of days of notice that must precede\nevery examination timetable change. Where a user asks for such a number, the system\nmust not invent one.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "22. Examination scheduling and postponement",
+    "provision": "22.6",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0135"
+  },
+  {
+    "text": "22.7 If an examination is cancelled after students have arrived at the venue, the\napplicable notice should state the next action, if one has been determined. This corpus\ndoes not prescribe a fixed compensation amount for travel or other personal expenses.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "22. Examination scheduling and postponement",
+    "provision": "22.7",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0136"
+  },
+  {
+    "text": "23.1 Each department should provide an academic advising mechanism through which\nstudents can discuss course registration, prerequisites, progression, and graduation\nrequirements.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "23. Student support and academic advising",
+    "provision": "23.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0137"
+  },
+  {
+    "text": "23.2 Academic advising is intended to assist students in understanding applicable\nrules. Advice from an adviser does not amend a regulation unless the adviser is the\nauthority empowered to issue the relevant decision.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "23. Student support and academic advising",
+    "provision": "23.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0138"
+  },
+  {
+    "text": "23.3 Students approaching graduation should review their credit audit before the final\nregistration period. A credit audit may identify mandatory courses, elective\nrequirements, outstanding backlogs, or other graduation conditions.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "23. Student support and academic advising",
+    "provision": "23.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0139"
+  },
+  {
+    "text": "23.4 Where a student's programme record appears inconsistent with the approved\ncurriculum, the student should request a formal review rather than relying on an\ninformal calculation.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "23. Student support and academic advising",
+    "provision": "23.4",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0140"
+  },
+  {
+    "text": "23.5 Departments may conduct orientation sessions explaining examination procedures,\nregistration deadlines, attendance requirements, and academic integrity. Attendance\nat an orientation session does not itself alter a student's academic obligations.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "23. Student support and academic advising",
+    "provision": "23.5",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0141"
+  },
+  {
+    "text": "23.6 A student who misses an advising session remains responsible for published\ndeadlines and official notices.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "23. Student support and academic advising",
+    "provision": "23.6",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0142"
+  },
+  {
+    "text": "23.7 The university may provide academic support, remedial instruction, mentoring, or\nother assistance. The availability of support does not by itself change the minimum\npassing requirement of a course.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "23. Student support and academic advising",
+    "provision": "23.7",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0143"
+  },
+  {
+    "text": "24.1 Academic decisions should be supported by records sufficient to identify the\nstudent, the applicable programme or cohort, the relevant academic period, and the\nauthority responsible for the decision.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "24. Data, auditability, and source provenance",
+    "provision": "24.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0144"
+  },
+  {
+    "text": "24.2 When a regulation is cited in an academic decision, the decision should identify\nthe provision relied upon where practicable.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "24. Data, auditability, and source provenance",
+    "provision": "24.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0145"
+  },
+  {
+    "text": "24.3 A copy of an unofficial message, social-media post, or verbal statement should\nnot be treated as an authoritative amendment unless the message itself was issued\nthrough an authorized official channel and clearly identifies its authority and scope.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "24. Data, auditability, and source provenance",
+    "provision": "24.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0146"
+  },
+  {
+    "text": "24.4 When two documents appear to address the same subject, the application should\nretain the source identity and document date so that users can inspect the context.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "24. Data, auditability, and source provenance",
+    "provision": "24.4",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0147"
+  },
+  {
+    "text": "24.5 A source document may contain tables, headings, footnotes, amendments, or\ncross-references that affect interpretation. Retrieval should preserve enough context\nfor a reader to inspect the relevant passage.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "24. Data, auditability, and source provenance",
+    "provision": "24.5",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0148"
+  },
+  {
+    "text": "24.6 If a user asks a question requiring information absent from the corpus, the\napplication should state that the available material does not establish the answer.\nIt should not substitute a general answer from model knowledge.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "24. Data, auditability, and source provenance",
+    "provision": "24.6",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0149"
+  },
+  {
+    "text": "24.7 If a retrieved passage contains an explicit exception, the application should\ninclude the exception in the evidence presented with the answer rather than quoting\nonly the general rule.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "24. Data, auditability, and source provenance",
+    "provision": "24.7",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0150"
+  },
+  {
+    "text": "24.8 If two applicable passages prescribe different numerical thresholds, dates,\neligibility conditions, or outcomes and no precedence rule resolves them, the\napplication should report the conflict explicitly.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "24. Data, auditability, and source provenance",
+    "provision": "24.8",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0151"
+  },
+  {
+    "text": "24.9 Evaluation logs should preserve the question, retrieved evidence identifiers,\nclassification, and final response so that an incorrect result can be investigated.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "24. Data, auditability, and source provenance",
+    "provision": "24.9",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0152"
+  },
+  {
+    "text": "24.10 The purpose of provenance is not merely to display citations. It is to allow a\nstudent or evaluator to move from a generated claim back to the underlying source and\njudge whether the claim is supported.",
+    "source": "academic_regulations.md",
+    "page": null,
+    "pages": [],
+    "section": "24. Data, auditability, and source provenance",
+    "provision": "24.10",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0153"
+  },
+  {
+    "text": "> This file is synthetic project material. It intentionally contains one of the\n> three contradictions used by the evaluation.",
+    "source": "attendance_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "Attendance Administration Policy — Synthetic Evaluation Source",
+    "provision": null,
+    "file_type": "markdown",
+    "chunk_id": "chunk_0154"
+  },
+  {
+    "text": "1.1 Regular students are expected to attend the lectures and practical classes\nprescribed for each registered course. Attendance is maintained independently for each\ncourse unless the approved scheme states otherwise.",
+    "source": "attendance_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "1. General attendance requirement",
+    "provision": "1.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0155"
+  },
+  {
+    "text": "1.2 The ordinary minimum attendance requirement is 75 percent. A student below the\nordinary threshold is not automatically eligible merely because the difference is\nsmall.",
+    "source": "attendance_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "1. General attendance requirement",
+    "provision": "1.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0156"
+  },
+  {
+    "text": "1.3 Attendance is calculated from delivered sessions. A cancelled session that is not\nsubsequently conducted is not counted as an absence.",
+    "source": "attendance_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "1. General attendance requirement",
+    "provision": "1.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0157"
+  },
+  {
+    "text": "1.4 Authorized university activities may receive attendance treatment only where the\nstudent has documentary authorization from the competent authority.",
+    "source": "attendance_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "1. General attendance requirement",
+    "provision": "1.4",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0158"
+  },
+  {
+    "text": "2.1 Departments should update attendance records regularly and provide students with\nreasonable opportunities to identify apparent errors.",
+    "source": "attendance_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "2. Attendance records",
+    "provision": "2.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0159"
+  },
+  {
+    "text": "2.2 A correction request should include the date, course, session, and reason the\nrecord is believed to be incorrect.",
+    "source": "attendance_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "2. Attendance records",
+    "provision": "2.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0160"
+  },
+  {
+    "text": "2.3 The department may consult class registers, laboratory logs, approved activity\nlists, and faculty records before deciding a correction request.",
+    "source": "attendance_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "2. Attendance records",
+    "provision": "2.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0161"
+  },
+  {
+    "text": "2.4 Attendance records should not be altered merely on the basis of a student's oral\nstatement.",
+    "source": "attendance_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "2. Attendance records",
+    "provision": "2.4",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0162"
+  },
+  {
+    "text": "3.1 A request for condonation must be filed through the notified process.",
+    "source": "attendance_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "3. Condonation process",
+    "provision": "3.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0163"
+  },
+  {
+    "text": "3.2 The request should specify the period of absence and the reason for the absence.",
+    "source": "attendance_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "3. Condonation process",
+    "provision": "3.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0164"
+  },
+  {
+    "text": "3.3 Supporting records may include medical certificates, official activity\nauthorizations, or other documents accepted by the competent authority.",
+    "source": "attendance_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "3. Condonation process",
+    "provision": "3.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0165"
+  },
+  {
+    "text": "3.4 Approval is discretionary within the limits of the applicable regulation. Filing an\napplication does not itself change the attendance percentage.",
+    "source": "attendance_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "3. Condonation process",
+    "provision": "3.4",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0166"
+  },
+  {
+    "text": "3.5 A student remains responsible for meeting the ordinary attendance requirement unless\nand until an approved condonation changes the student's eligibility status.",
+    "source": "attendance_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "3. Condonation process",
+    "provision": "3.5",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0167"
+  },
+  {
+    "text": "4.1 Medical absence should be supported by a certificate or other evidence accepted by\nthe university.",
+    "source": "attendance_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "4. Medical absence",
+    "provision": "4.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0168"
+  },
+  {
+    "text": "4.2 The university may ask a student to submit the record for verification when the\nabsence is substantial or when the issuing provider cannot be verified.",
+    "source": "attendance_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "4. Medical absence",
+    "provision": "4.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0169"
+  },
+  {
+    "text": "4.3 Medical evidence does not automatically guarantee exemption from an examination or\nattendance requirement. The competent authority must apply the applicable rule.",
+    "source": "attendance_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "4. Medical absence",
+    "provision": "4.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0170"
+  },
+  {
+    "text": "4.4 **Evaluation contradiction A:** For an approved medical exemption from the ordinary\nattendance requirement, this policy states that the student's attendance must be at\nleast **65 percent**.",
+    "source": "attendance_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "4. Medical absence",
+    "provision": "4.4",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0171"
+  },
+  {
+    "text": "4.5 The medical threshold in Section 4.4 is intentionally inconsistent with Section",
+    "source": "attendance_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "4. Medical absence",
+    "provision": "4.5",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0172"
+  },
+  {
+    "text": "4.8 of the synthetic Academic Regulations file, which states 60 percent. Neither\ndocument should be silently preferred by the retrieval system when both provisions are\napplicable.",
+    "source": "attendance_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "4. Medical absence",
+    "provision": "4.8",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0173"
+  },
+  {
+    "text": "5.1 Participation in an authorized university competition, official academic visit,\nor formally assigned university activity may be considered under the relevant\nattendance procedure.",
+    "source": "attendance_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "5. Other absence categories",
+    "provision": "5.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0174"
+  },
+  {
+    "text": "5.2 Personal travel, routine family functions, private appointments, and ordinary\nsocial events are not guaranteed grounds for attendance relief.",
+    "source": "attendance_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "5. Other absence categories",
+    "provision": "5.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0175"
+  },
+  {
+    "text": "5.3 Students should not rely on informal assurances that an absence will be excused.",
+    "source": "attendance_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "5. Other absence categories",
+    "provision": "5.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0176"
+  },
+  {
+    "text": "6.1 Attendance eligibility is assessed using the records applicable to the relevant\nexamination.",
+    "source": "attendance_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "6. Examination eligibility",
+    "provision": "6.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0177"
+  },
+  {
+    "text": "6.2 Where an approved condonation is granted, the decision should be recorded before\nfinal examination eligibility is published where practicable.",
+    "source": "attendance_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "6. Examination eligibility",
+    "provision": "6.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0178"
+  },
+  {
+    "text": "6.3 A student whose request remains undecided should contact the designated academic\noffice rather than assume approval.",
+    "source": "attendance_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "6. Examination eligibility",
+    "provision": "6.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0179"
+  },
+  {
+    "text": "7.1 A student may challenge an attendance record correction decision through the\nacademic review process where such a route is available.",
+    "source": "attendance_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "7. Appeals",
+    "provision": "7.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0180"
+  },
+  {
+    "text": "7.2 An appeal should identify the disputed attendance entries and attach relevant\nevidence.",
+    "source": "attendance_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "7. Appeals",
+    "provision": "7.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0181"
+  },
+  {
+    "text": "7.3 The appeal authority may uphold, modify, or return the decision for reconsideration.",
+    "source": "attendance_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "7. Appeals",
+    "provision": "7.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0182"
+  },
+  {
+    "text": "8.1 Attendance provisions must be read according to their stated scope.",
+    "source": "attendance_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "8. Interpretation",
+    "provision": "8.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0183"
+  },
+  {
+    "text": "8.2 Where the corpus contains incompatible medical thresholds for the same situation,\nthe application must return a contradiction state and display the evidence.",
+    "source": "attendance_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "8. Interpretation",
+    "provision": "8.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0184"
+  },
+  {
+    "text": "8.3 The application must not infer a medical exemption threshold from practices at\nother universities.",
+    "source": "attendance_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "8. Interpretation",
+    "provision": "8.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0185"
+  },
+  {
+    "text": "> This is synthetic evaluation material. It intentionally contains one contradiction\nabout improvement attempts.",
+    "source": "examination_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "Examination Administration Policy — Synthetic Evaluation Source",
+    "provision": null,
+    "file_type": "markdown",
+    "chunk_id": "chunk_0186"
+  },
+  {
+    "text": "1.1 Students must submit the examination form during the period announced by the\nexamination office.",
+    "source": "examination_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "1. Examination entry",
+    "provision": "1.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0187"
+  },
+  {
+    "text": "1.2 The form must identify the student's registered courses and the examination for\nwhich entry is requested.",
+    "source": "examination_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "1. Examination entry",
+    "provision": "1.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0188"
+  },
+  {
+    "text": "1.3 The applicable examination fee must be paid through the approved channel unless a\nfee exemption has been formally granted.",
+    "source": "examination_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "1. Examination entry",
+    "provision": "1.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0189"
+  },
+  {
+    "text": "1.4 Students should verify their examination entry after submission.",
+    "source": "examination_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "1. Examination entry",
+    "provision": "1.4",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0190"
+  },
+  {
+    "text": "2.1 Candidates must carry the identification or admit-card material specified in the\nexamination notice.",
+    "source": "examination_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "2. Examination conduct",
+    "provision": "2.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0191"
+  },
+  {
+    "text": "2.2 Candidates shall follow seating, timing, material, and electronic-device\ninstructions.",
+    "source": "examination_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "2. Examination conduct",
+    "provision": "2.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0192"
+  },
+  {
+    "text": "2.3 Unauthorized assistance, copying, impersonation, and prohibited material may be\ntreated as examination misconduct.",
+    "source": "examination_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "2. Examination conduct",
+    "provision": "2.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0193"
+  },
+  {
+    "text": "2.4 A candidate who notices an error in a question paper should raise it through the\nprocedure announced by the invigilator.",
+    "source": "examination_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "2. Examination conduct",
+    "provision": "2.4",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0194"
+  },
+  {
+    "text": "3.1 Absence is recorded according to the attendance taken in the examination hall.",
+    "source": "examination_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "3. Absence and special consideration",
+    "provision": "3.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0195"
+  },
+  {
+    "text": "3.2 A student unable to attend because of a documented medical emergency may apply for\nthe special procedure identified in the examination notice.",
+    "source": "examination_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "3. Absence and special consideration",
+    "provision": "3.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0196"
+  },
+  {
+    "text": "3.3 The application should be submitted within the notified period.",
+    "source": "examination_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "3. Absence and special consideration",
+    "provision": "3.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0197"
+  },
+  {
+    "text": "3.4 This policy does not establish a general replacement-examination right for family\nevents, travel problems, or ordinary scheduling conflicts.",
+    "source": "examination_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "3. Absence and special consideration",
+    "provision": "3.4",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0198"
+  },
+  {
+    "text": "4.1 Examination results are published after the authorized processing procedure.",
+    "source": "examination_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "4. Results and scrutiny",
+    "provision": "4.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0199"
+  },
+  {
+    "text": "4.2 A student may apply for scrutiny or revaluation where the examination notice\npermits it.",
+    "source": "examination_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "4. Results and scrutiny",
+    "provision": "4.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0200"
+  },
+  {
+    "text": "4.3 The application must be submitted within the stated deadline and must contain the\nrequired information and fee.",
+    "source": "examination_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "4. Results and scrutiny",
+    "provision": "4.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0201"
+  },
+  {
+    "text": "4.4 Revaluation may result in an increase, decrease, or no change where the applicable\nprocedure allows those outcomes.",
+    "source": "examination_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "4. Results and scrutiny",
+    "provision": "4.4",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0202"
+  },
+  {
+    "text": "5.1 Improvement is available only to students who satisfy the eligibility conditions\nof the applicable programme and examination notice.",
+    "source": "examination_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "5. Improvement examinations",
+    "provision": "5.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0203"
+  },
+  {
+    "text": "5.2 **Evaluation contradiction B:** This policy states that an eligible student may\nimprove marks in a maximum of **two subjects**.",
+    "source": "examination_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "5. Improvement examinations",
+    "provision": "5.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0204"
+  },
+  {
+    "text": "5.3 The Academic Regulations synthetic source states in Section 7.7 that improvement\nmay be taken in a maximum of **three subjects**.",
+    "source": "examination_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "5. Improvement examinations",
+    "provision": "5.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0205"
+  },
+  {
+    "text": "5.4 Both provisions are deliberately included for evaluation. The application should\nsurface both rather than choosing a number without showing its source.",
+    "source": "examination_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "5. Improvement examinations",
+    "provision": "5.4",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0206"
+  },
+  {
+    "text": "6.1 Practical examinations may include demonstrations, laboratory performance, viva\nquestions, records, or other components specified by the course scheme.",
+    "source": "examination_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "6. Practical examinations",
+    "provision": "6.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0207"
+  },
+  {
+    "text": "6.2 An external examiner may be appointed where required by the approved assessment\nscheme.",
+    "source": "examination_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "6. Practical examinations",
+    "provision": "6.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0208"
+  },
+  {
+    "text": "6.3 Practical attendance and practical assessment records should be maintained\nseparately where the course structure requires separate accounting.",
+    "source": "examination_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "6. Practical examinations",
+    "provision": "6.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0209"
+  },
+  {
+    "text": "7.1 Examination forms, attendance sheets, evaluated scripts, and result records should\nbe retained according to the university's record-retention procedure.",
+    "source": "examination_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "7. Examination records",
+    "provision": "7.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0210"
+  },
+  {
+    "text": "7.2 Corrections to a published result should be supported by an audit record.",
+    "source": "examination_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "7. Examination records",
+    "provision": "7.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0211"
+  },
+  {
+    "text": "8.1 A student may use the published appeal or grievance route for an examination\nadministrative decision where the route is available.",
+    "source": "examination_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "8. Examination appeals",
+    "provision": "8.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0212"
+  },
+  {
+    "text": "8.2 An appeal should not be treated as an automatic postponement of another examination\nor deadline.",
+    "source": "examination_policy.md",
+    "page": null,
+    "pages": [],
+    "section": "8. Examination appeals",
+    "provision": "8.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0213"
+  },
+  {
+    "text": "> This is a synthetic fee schedule used to test table extraction and contradiction\nhandling. It is not an official university fee notice.\n| Fee item | Normal deadline | Late-payment window | Notes |\n|---|---|---|---|\n| Semester tuition fee | 15 July | 16–25 July | Late fee applies during the late window |\n| Examination fee | 10 October | 11–15 October | Applicable to the following examination cycle |\n| Hostel fee | 20 July | 21–30 July | Subject to room-allocation confirmation |\n| Project registration fee | 5 August | 6–10 August | Final-year students only |",
+    "source": "fee_deadlines.md",
+    "page": null,
+    "pages": [],
+    "section": "Semester Fee Schedule — Synthetic Evaluation Source",
+    "provision": null,
+    "file_type": "markdown",
+    "chunk_id": "chunk_0214"
+  },
+  {
+    "text": "1.1 Fees must be paid through the payment channel identified by the university.",
+    "source": "fee_deadlines.md",
+    "page": null,
+    "pages": [],
+    "section": "1. Payment process",
+    "provision": "1.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0215"
+  },
+  {
+    "text": "1.2 A transaction is considered successful only when the payment provider confirms the\ntransaction and the university system records the payment.",
+    "source": "fee_deadlines.md",
+    "page": null,
+    "pages": [],
+    "section": "1. Payment process",
+    "provision": "1.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0216"
+  },
+  {
+    "text": "1.3 Students should retain the transaction receipt until the end of the academic year.",
+    "source": "fee_deadlines.md",
+    "page": null,
+    "pages": [],
+    "section": "1. Payment process",
+    "provision": "1.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0217"
+  },
+  {
+    "text": "2.1 The table above lists **15 July** as the normal semester tuition deadline.",
+    "source": "fee_deadlines.md",
+    "page": null,
+    "pages": [],
+    "section": "2. Semester tuition deadline",
+    "provision": "2.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0218"
+  },
+  {
+    "text": "2.2 **Evaluation contradiction C:** Section 3.1 below states that semester tuition is\ndue by **31 July**. This conflict is intentional. A question asking for the final\nnormal deadline must therefore be classified as contradictory if both provisions are\nretrieved as applicable.",
+    "source": "fee_deadlines.md",
+    "page": null,
+    "pages": [],
+    "section": "2. Semester tuition deadline",
+    "provision": "2.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0219"
+  },
+  {
+    "text": "3.1 For the purposes of this synthetic evaluation source, the semester tuition fee is\nstated to be due by **31 July**.",
+    "source": "fee_deadlines.md",
+    "page": null,
+    "pages": [],
+    "section": "3. Alternative deadline statement",
+    "provision": "3.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0220"
+  },
+  {
+    "text": "3.2 This statement intentionally conflicts with the fee table in Section 2.1.",
+    "source": "fee_deadlines.md",
+    "page": null,
+    "pages": [],
+    "section": "3. Alternative deadline statement",
+    "provision": "3.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0221"
+  },
+  {
+    "text": "4.1 Payment after the applicable normal deadline may incur the late charge stated in\nthe fee notice.",
+    "source": "fee_deadlines.md",
+    "page": null,
+    "pages": [],
+    "section": "4. Late payment",
+    "provision": "4.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0222"
+  },
+  {
+    "text": "4.2 A student should not assume that a late-payment window extends eligibility for\ncourse registration unless the relevant registration notice says so.",
+    "source": "fee_deadlines.md",
+    "page": null,
+    "pages": [],
+    "section": "4. Late payment",
+    "provision": "4.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0223"
+  },
+  {
+    "text": "4.3 A payment made after a late window may require administrative approval or may be\nrejected, depending on the applicable notice.",
+    "source": "fee_deadlines.md",
+    "page": null,
+    "pages": [],
+    "section": "4. Late payment",
+    "provision": "4.3",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0224"
+  },
+  {
+    "text": "5.1 Refund eligibility depends on the type of fee and the circumstances of withdrawal.",
+    "source": "fee_deadlines.md",
+    "page": null,
+    "pages": [],
+    "section": "5. Refunds",
+    "provision": "5.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0225"
+  },
+  {
+    "text": "5.2 This synthetic schedule does not specify the refund percentage for withdrawal from\na semester after classes have begun.",
+    "source": "fee_deadlines.md",
+    "page": null,
+    "pages": [],
+    "section": "5. Refunds",
+    "provision": "5.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0226"
+  },
+  {
+    "text": "6.1 A student who is charged but whose payment is not reflected in the university\nportal should preserve the bank or payment-provider transaction reference.",
+    "source": "fee_deadlines.md",
+    "page": null,
+    "pages": [],
+    "section": "6. Payment disputes",
+    "provision": "6.1",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0227"
+  },
+  {
+    "text": "6.2 The finance office may request transaction evidence before correcting a payment\nrecord.",
+    "source": "fee_deadlines.md",
+    "page": null,
+    "pages": [],
+    "section": "6. Payment disputes",
+    "provision": "6.2",
+    "file_type": "markdown",
+    "chunk_id": "chunk_0228"
+  },
+  {
+    "text": "RAJIV GANDHI PROUDYOGIKI VISHWAVIDYALAYA, BHOPAL\nEstablished under Act No. 13 of 1998\nOrdinance No.4 (A)\n(Section 40 (1))\nOrdinance for Bachelor of Engineering 4 year Degree course\n(For the Candidates admitted in 1st year on and after July, 2010)\n(Under Credit Based Grading System applicable from July, 2010)\n(Amended upto June, 2013)",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 1,
+    "pages": [
+      1
+    ],
+    "section": null,
+    "provision": null,
+    "file_type": "pdf",
+    "chunk_id": "chunk_0229"
+  },
+  {
+    "text": "hereinafter called 4-YDC, shall be designated as BACHELOR OF\nENGINEERING, in respective Branch.\n*1.1 The studies and examinations of Bachelor of Engineering course\n(Approved By All India Council for Technical Education, New Delhi)\nshall be on the basis of Marks-Cum-Credit system but semester wise\nand final evaluation shall be by grading system in accordance with the\nordinance No. 30, “ Credit Based Grading System hereinafter referred\nas Ord. 30”",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 1,
+    "pages": [
+      1
+    ],
+    "section": "1.0 The first degree in Engineering of four-year (eight semester) course,",
+    "provision": null,
+    "file_type": "pdf",
+    "chunk_id": "chunk_0230"
+  },
+  {
+    "text": "1.2\nThe studies and examinations of these B.E. courses shall be on the\nbasis of Marks- Cum - credit system but semester wise and final\nevaluation shall be by grading system in accordance with the\nordinance No. 30, “Credit Based Grading System” hereinafter referred\nas Ord.30.",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 1,
+    "pages": [
+      1
+    ],
+    "section": "1.0 The first degree in Engineering of four-year (eight semester) course,",
+    "provision": "1.2",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0231"
+  },
+  {
+    "text": "1.3\nThis Ordinance shall also be applicable to 4-Year Part –time B.E.\nCourse, which are approved by the State Government of Madhya\nPradesh.",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 1,
+    "pages": [
+      1
+    ],
+    "section": "1.0 The first degree in Engineering of four-year (eight semester) course,",
+    "provision": "1.3",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0232"
+  },
+  {
+    "text": "2.1 Minimum qualification for admission to the first year B.E. shall be the\nqualifying Higher Secondary School Certificate Examination (10+2)\nscheme with Physics, Chemistry and Mathematics (also securing pass\nmarks in these three subjects individually) conducted by M.P. Board of\nSecondary Education or an equivalent examination from a recognized\nBoard/University.",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 1,
+    "pages": [
+      1
+    ],
+    "section": "2.0 ADMISSIONS",
+    "provision": "2.1",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0233"
+  },
+  {
+    "text": "2.2 Candidates who have qualified the Diploma course in related branch of\nengineering from M.P. Board of Technical Education, Bhopal or\nequivalent shall also be eligible for admission to first semester of B.E.\ncourse.",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 1,
+    "pages": [
+      1
+    ],
+    "section": "2.0 ADMISSIONS",
+    "provision": "2.2",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0234"
+  },
+  {
+    "text": "2.3\nMinimum qualification for direct admission to second year Bachelor\nof Engineering Course termed as Lateral Entry shall be as per the\nprevalent norms of the Government of Madhya Pradesh.",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 2,
+    "pages": [
+      2
+    ],
+    "section": "2.0 ADMISSIONS",
+    "provision": "2.3",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0235"
+  },
+  {
+    "text": "2.4\nNon-Resident Indian (N R I) candidates shall also be eligible for\nadmission to B.E. in accordance with directives of the Government of\nMadhya Pradesh, provided they satisfy the criterion of clause 2.1\nabove.",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 2,
+    "pages": [
+      2
+    ],
+    "section": "2.0 ADMISSIONS",
+    "provision": "2.4",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0236"
+  },
+  {
+    "text": "2.5\nThe admissions to B.E. course shall be governed by the rules of the\ntechnical education and training department government of Madhya\nPradesh Bhopal and/ or any other competent authority of the state\ngovernment of Madhya Pradesh.",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 2,
+    "pages": [
+      2
+    ],
+    "section": "2.0 ADMISSIONS",
+    "provision": "2.5",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0237"
+  },
+  {
+    "text": "3.1\nThere will be one University Examination at the end of each semester.\nThese examinations will be designated as follows:\n3.1(a)During First Year\n\nFirst Semester B.E., Exam, Second Semester B.E., Exam",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 2,
+    "pages": [
+      2
+    ],
+    "section": "3.0 EXAMINATIONS",
+    "provision": "3.1",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0238"
+  },
+  {
+    "text": "3.1(b) During Second Year\n\nThird semester B.E. Exam, Fourth semester B.E. Exam",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 2,
+    "pages": [
+      2
+    ],
+    "section": "3.0 EXAMINATIONS",
+    "provision": "3.1(b)",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0239"
+  },
+  {
+    "text": "3.1(c) During Third Year\n\nFifth semester B.E. Exam, Sixth semester B.E. Exam",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 2,
+    "pages": [
+      2
+    ],
+    "section": "3.0 EXAMINATIONS",
+    "provision": "3.1(c)",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0240"
+  },
+  {
+    "text": "3.1(d) During fourth Year\n\nSeventh semester B.E. Exam, Eighth semester B.E. Exam",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 2,
+    "pages": [
+      2
+    ],
+    "section": "3.0 EXAMINATIONS",
+    "provision": "3.1(d)",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0241"
+  },
+  {
+    "text": "3.2\nThe semester examination will generally be held in Nov-Dec. and\nApril-May in each year.",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 2,
+    "pages": [
+      2
+    ],
+    "section": "3.0 EXAMINATIONS",
+    "provision": "3.2",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0242"
+  },
+  {
+    "text": "3.3\nThere will be a full examination at the end of each semester consisting\nof end semester of theory and practical . The duration of examination\nperiod normally should not exceed 20 working days.",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 2,
+    "pages": [
+      2
+    ],
+    "section": "3.0 EXAMINATIONS",
+    "provision": "3.3",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0243"
+  },
+  {
+    "text": "A candidate who has been admitted in the engineering course will be\npromoted to the higher class in accordance with the following rules:",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 3,
+    "pages": [
+      3
+    ],
+    "section": "4.0 PROMOTION TO HIGHER SEMESTER AND YEAR",
+    "provision": null,
+    "file_type": "pdf",
+    "chunk_id": "chunk_0244"
+  },
+  {
+    "text": "4.1\n(a)\nA candidate who has taken admission in A-B Group and has\nappeared in the examination of odd semester of a particular\nyear, will automatically be promoted to even semester of that\nyear irrespective of failing in any number of subjects of\nprevious semester.\n(b) A candidate who has taken admission in even semester under\nB-A Group and has appeared in the examination of even\nsemester, will automatically be promoted to next applicable odd\nsemester irrespective of failing in any number of subjects of\nprevious semester.\nNote:\nThe candidate who seeks admission in odd semester of an\nacademic year is said to be in A-B group, while, a candidate\nwho seeks admission in even semester of an academic year is\nsaid to be in B-A group. i.e. a Candidate of A-B Group will\ntake admission generally in July; whereas, candidate of B-A\nGroup will take admission generally in January in the relevant\nacademic year.",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 3,
+    "pages": [
+      3
+    ],
+    "section": "4.0 PROMOTION TO HIGHER SEMESTER AND YEAR",
+    "provision": "4.1",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0245"
+  },
+  {
+    "text": "4.2\nFor the award of degree minimum Cumulative Grade Point Average\n(CGPA) required is 5.0.",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 3,
+    "pages": [
+      3
+    ],
+    "section": "4.0 PROMOTION TO HIGHER SEMESTER AND YEAR",
+    "provision": "4.2",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0246"
+  },
+  {
+    "text": "4.3\nTo pass a particular subject of the course the minimum required grade\nis D. However, the candidate should also separately score minimum of\ngrade D in end semester examinations of theory and practical parts of\nthe subject. For practical examinations one external examiner from\nout side the institute shall always be there.",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 3,
+    "pages": [
+      3
+    ],
+    "section": "4.0 PROMOTION TO HIGHER SEMESTER AND YEAR",
+    "provision": "4.3",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0247"
+  },
+  {
+    "text": "4.4\nA candidate who fails to score minimum of grade D in more than five\nsubjects (Theory and Practical of the same subject shall be treated as\ntwo subjects) in a particular year, shall not be admitted to the next\nhigher year.",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 3,
+    "pages": [
+      3
+    ],
+    "section": "4.0 PROMOTION TO HIGHER SEMESTER AND YEAR",
+    "provision": "4.4",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0248"
+  },
+  {
+    "text": "4.5\nFurther, a candidate shall not be admitted in the fifth or higher\nsemester classes unless he/she has fully passed the first year\nexamination with minimum of CGPA of 5.0. Likewise a candidate\nshall not be admitted in seventh or higher semester classes unless\nhe/she has fully passed first and second year examinations with\nminimum CGPA of 5.0.",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 4,
+    "pages": [
+      4
+    ],
+    "section": "4.0 PROMOTION TO HIGHER SEMESTER AND YEAR",
+    "provision": "4.5",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0249"
+  },
+  {
+    "text": "4.6\nIf a candidate has passed all the subjects of an applicable year but has\nfailed to score a minimum CGPA of 5.0 as per the requirement of rule",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 4,
+    "pages": [
+      4
+    ],
+    "section": "4.0 PROMOTION TO HIGHER SEMESTER AND YEAR",
+    "provision": "4.6",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0250"
+  },
+  {
+    "text": "4.2 and 4.5 above, such a candidate shall be permitted to improve\nrequisite grade point by reappearing in maximum of three theory\n/practical subjects, in the ensuing examination (theory and practical of\na subject shall be treated as separate subjects. )",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 4,
+    "pages": [
+      4
+    ],
+    "section": "4.0 PROMOTION TO HIGHER SEMESTER AND YEAR",
+    "provision": "4.2",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0251"
+  },
+  {
+    "text": "4.7\nOther than the provision of rule 4.6 above, a candidate shall not be\npermitted to reappear in that examination, for improvement of\ndivision/marks or for any other purpose.",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 4,
+    "pages": [
+      4
+    ],
+    "section": "4.0 PROMOTION TO HIGHER SEMESTER AND YEAR",
+    "provision": "4.7",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0252"
+  },
+  {
+    "text": "5.1\nEach course, along with its weightage in terms of units and equivalent\ncredits, shall be recommended by the concerned Board of Studies and\nshall be approved by the standing committee of Academic Council\nand the Executive Council. Only approved courses can be offered\nduring any semester.",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 4,
+    "pages": [
+      4
+    ],
+    "section": "5.0 AWARD OF CREDITS AND GRADES",
+    "provision": "5.1",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0253"
+  },
+  {
+    "text": "5.2\nA student shall be continuously evaluated for his / her academic\nperformance in a subject through tutorial work, practical, home\nassignment, mid-semester test, field work, seminars, quizzes, end-\nsemester examinations and regularity, as proposed by respective\nBoard of Studies and approved by standing committee of Academic\nCouncil and Executive Council of the University.",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 4,
+    "pages": [
+      4
+    ],
+    "section": "5.0 AWARD OF CREDITS AND GRADES",
+    "provision": "5.2",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0254"
+  },
+  {
+    "text": "5.3\nThe distribution of weightage /marks for each component shall be\ndecided by the respective of Board of Studies and approved by\nstanding committee of Academic Council and Executive Council of\nthe University subject to such stipulation as given under:\n(a)\nTheory Block\ni.\nQuizzes, assignments and regularity\n10%\nii.\nMid – semester test -\n20%\niii.\nEnd – semester examination-\n70%\nTotal\n100%\n(b)\nPractical Block\ni.\nLab work and performance, quizzes,\nassignments and regularity -\n40%\nii.\nEnd – semester examination-\n60%\nTotal\n100%",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 4,
+    "pages": [
+      4,
+      5
+    ],
+    "section": "5.0 AWARD OF CREDITS AND GRADES",
+    "provision": "5.3",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0255"
+  },
+  {
+    "text": "5.4\nPractical training, and project work shall be treated as practical\nsubjects.",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 5,
+    "pages": [
+      5
+    ],
+    "section": "5.0 AWARD OF CREDITS AND GRADES",
+    "provision": "5.4",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0256"
+  },
+  {
+    "text": "5.5\nIn each semester, the institute will be required to conduct at least two\nmid semester tests for theory block.",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 5,
+    "pages": [
+      5
+    ],
+    "section": "5.0 AWARD OF CREDITS AND GRADES",
+    "provision": "5.5",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0257"
+  },
+  {
+    "text": "5.6\nEach student, registered for a course, shall be awarded grade by the\nconcerned faculty / faculties for the specific subject/paper. The grades\nawarded to a student shall depend upon his continuous evaluation\nthrough performance in various examinations, assignments, quizzes,\nlaboratory work, class work, mid semester test and regularity. The\ngrades to be used and their numerical equivalents are as under :\nCredit Based Grading System\nGrade %Marks range (based on\nabsolute marks system)\nGrade Point\nDescription\nof\nperformance\nA+\n91-100\nOutstanding\nA\n81-90\nExcellent\nB+\n71-80\nVery Good\nB\n61-70\nGood\nC+\n51-60\nAverage\nC\n41-50\nSatisfactory\nD\n31-40\nMarginal\nF\n30 & below\nFail.\nI\nIncomplete.\nW\nWithdrawal",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 5,
+    "pages": [
+      5
+    ],
+    "section": "5.0 AWARD OF CREDITS AND GRADES",
+    "provision": "5.6",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0258"
+  },
+  {
+    "text": "5.7\nThe Semester Grade Points Average (SGPA) and Cumulative Grade\nPoint Average (CGPA) shall be calculated as under:-\nn\ni\ni\ni\nn\ni\ni\nc p\nSGPA\nc\n\n\n\n\nWhere ci is the number of credits offered in the i th subject of a\nSemester for which SGPA is to be calculated , pi is the corresponding\ngrade point earned in the i th subject, where i = 1,2,….. n , are the\nnumber of subjects in that semester.\n\n\n\n\n\nm\nj\nj\nm\nj\nj\nj\nNC\nNC\nSG\nCGPA\nhere NCj is the number of total credits offered in the jth semester, SGj\nis the SGPA earned in the jth semester, where j = 1,2,….. m, are\nthe number of semesters in that course.",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 6,
+    "pages": [
+      6
+    ],
+    "section": "5.0 AWARD OF CREDITS AND GRADES",
+    "provision": "5.7",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0259"
+  },
+  {
+    "text": "5.8\nThe grade sheet at end of each even semester examination for students\nof A-B group (odd semester, for students of B-A group) shall also\nshow CGPA till end of that semester. The final examination grade\nsheet at the end of final semester examination of the course shall also\nindicate CGPA, equivalent percentage marks and the division\nawarded, according to the rule as given in para 7.0 of this ordinance .",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 6,
+    "pages": [
+      6
+    ],
+    "section": "5.0 AWARD OF CREDITS AND GRADES",
+    "provision": "5.8",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0260"
+  },
+  {
+    "text": "5.9\nA candidate appearing in seventh semester after eighth semester (B-A\ngroup) will not be issued any Grade Sheet or Provisional Certificate\nafter eighth semester until he has passed all the semesters.",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 6,
+    "pages": [
+      6
+    ],
+    "section": "5.0 AWARD OF CREDITS AND GRADES",
+    "provision": "5.9",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0261"
+  },
+  {
+    "text": "6.1\nDeficiency up to five marks can be condoned to the best of the\nadvantage of the student for passing the examinations. The deficiency\ncan be condoned in not more than two subjects (theory and practical\nof the same subject shall be considered as two separate subjects, for\nthe purpose of awarding grace marks).",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 6,
+    "pages": [
+      6
+    ],
+    "section": "6.0 CONDONATION OF DEFICIENCY",
+    "provision": "6.1",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0262"
+  },
+  {
+    "text": "6.2\nOne grace mark will be given to the candidate who is failing/missing\ndistinction/missing first division by one mark, on behalf of the Vice-\nChancellor in the B.E. examination. This benefit will not, however, be\navailable to a candidate getting advantage under clause 6.1.",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 6,
+    "pages": [
+      6,
+      7
+    ],
+    "section": "6.0 CONDONATION OF DEFICIENCY",
+    "provision": "6.2",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0263"
+  },
+  {
+    "text": "7.1\nDivision shall be awarded only after the eighth (Seventh semester for\ncandidates of B-A group) and final semester examination based on\nintegrated performance of the candidate for all the four years as per\nfollowing details",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 7,
+    "pages": [
+      7
+    ],
+    "section": "7.0 AWARD OF DIVISION",
+    "provision": "7.1",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0264"
+  },
+  {
+    "text": "7.2\nThe conversion from grade to an equivalent percentage in a given\nacademic program shall be according to the following formula\napplicable.\nObtained x 100",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 7,
+    "pages": [
+      7
+    ],
+    "section": "7.0 AWARD OF DIVISION",
+    "provision": "7.2",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0265"
+  },
+  {
+    "text": "8.1\nThere shall be at least fourteen weeks of teaching in every semester.",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 7,
+    "pages": [
+      7
+    ],
+    "section": "8.0 DURATION OF COURSE",
+    "provision": "8.1",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0266"
+  },
+  {
+    "text": "8.2\nOne hour of conduct in Lecturer (L) / Tutorial (T) / Practical (P) per\nweek shall be equal to one credit as allotted in the respective schemes.",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 7,
+    "pages": [
+      7
+    ],
+    "section": "8.0 DURATION OF COURSE",
+    "provision": "8.2",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0267"
+  },
+  {
+    "text": "8.3\nA candidate may provisionally continue to attend next higher year,\neven if, the result of qualifying year / semester has not been declared.\nHowever, subsequently if he/she is not able to clear qualifying\nsemester examination, the candidate cannot claim any right on the\nbasis of his/her provisional admission.\nCGPA Score\nDivisions",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 7,
+    "pages": [
+      7
+    ],
+    "section": "8.0 DURATION OF COURSE",
+    "provision": "8.3",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0268"
+  },
+  {
+    "text": "7.5 ≤ CGPA\nFirst Division With\nHonours",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 7,
+    "pages": [
+      7
+    ],
+    "section": "8.0 DURATION OF COURSE",
+    "provision": "7.5",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0269"
+  },
+  {
+    "text": "6.5 ≤ CGPA < 7.5\nFirst Division",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 7,
+    "pages": [
+      7
+    ],
+    "section": "8.0 DURATION OF COURSE",
+    "provision": "6.5",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0270"
+  },
+  {
+    "text": "II Division\nCGPA\nscored\nmarks\nPercentage\n",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 7,
+    "pages": [
+      7
+    ],
+    "section": "5.0 ≤ CGPA < 6.5",
+    "provision": null,
+    "file_type": "pdf",
+    "chunk_id": "chunk_0271"
+  },
+  {
+    "text": "8.4\nThe maximum duration of the course shall be eight years. However,\nfor one mercy attempt the para 24.1.4 of the Ordinance No.12:\n“Examination General” shall be applicable.",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 8,
+    "pages": [
+      8
+    ],
+    "section": "5.0 ≤ CGPA < 6.5",
+    "provision": "8.4",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0272"
+  },
+  {
+    "text": "9.1\nBranch wise final merit list of first ten (10) candidates in the order of\nmerit shall be declared by the University only after the main\nexamination of the eighth and final semester for B.E. degree, on the\nbasis of the integrated performance of all the four years. The merit list\nshall include the first ten candidates securing at least first division and\npassing all semesters in single attempts.",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 8,
+    "pages": [
+      8
+    ],
+    "section": "9.0 MERIT LIST",
+    "provision": "9.1",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0273"
+  },
+  {
+    "text": "10.1 Candidates appearing as regular students for any semester\nexamination are required to attend 75 percent of the lectures delivered\nand the practical classes held separately in each subject of the course\nof study, provided that a short fall in attendance upto 10% and a\nfurther 5% can be condoned by the principal of the college and Vice-\nChancellor of the University, respectively for satisfactory reasons.",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 8,
+    "pages": [
+      8
+    ],
+    "section": "10.0 ATTENDENCE",
+    "provision": "10.1",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0274"
+  },
+  {
+    "text": "11.1 The medium of instruction and examination shall be English\nthroughout the course of study.",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 8,
+    "pages": [
+      8
+    ],
+    "section": "11.0 MEDIUM OF INSTRUCTION AND EXAMINATION",
+    "provision": "11.1",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0275"
+  },
+  {
+    "text": "11.2 The subjects to be studied in different semester of Bachelor of\nEngineering shall be as per the Schemes, approved by Board of\nStudies.\nREGISTRAR\nRAJIV GANDHI PROUDYOGIKI VISHWAVIDYALAYA\nBHOPAL\n(*Approval accorded by H’ble Chancellor on dated 04/06/2013 on single file no.312)",
+    "source": "rgpv_ordinance_4A_2013.pdf",
+    "page": 8,
+    "pages": [
+      8
+    ],
+    "section": "11.0 MEDIUM OF INSTRUCTION AND EXAMINATION",
+    "provision": "11.2",
+    "file_type": "pdf",
+    "chunk_id": "chunk_0276"
+  }
+]
