@@ -1,24 +1,51 @@
 # Rulebook AI
 
-A checkable, evidence-grounded academic regulation assistant built for the It Geeks AI
-Developer vibe-coding round.
+A checkable, evidence-grounded academic regulation assistant built for the
+It Geeks AI Developer vibe-coding round.
 
-## Core states
+Rulebook AI answers student questions using a controlled academic regulation
+corpus. Instead of guessing when information is missing or choosing between
+conflicting rules, the system explicitly classifies each question into one of
+three states:
 
-- `ANSWERABLE` — the corpus contains sufficient evidence to answer.
-- `NOT_COVERED` — the corpus does not establish an answer; the system must refuse to invent one.
-- `CONTRADICTION` — applicable corpus evidence contains incompatible rules.
+- `ANSWERABLE` — the corpus contains sufficient evidence to answer the question.
+- `NOT_COVERED` — the corpus does not establish the requested information, so
+  the system does not invent an answer.
+- `CONTRADICTION` — the corpus contains incompatible claims relevant to the
+  question.
 
-## Corpus
+Every result is backed by retrieved source passages with source, section,
+provision, and page metadata where available.
 
-The repository preserves two official RGPV B.E. ordinance PDFs supplied as project source
-documents and includes clearly labeled synthetic evaluation documents.
+---
 
-The synthetic corpus intentionally contains exactly three contradictions documented in
-`docs/contradictions.md`.
+## Architecture
 
-## Current milestone
-
-This repository currently contains the corpus and contradiction ground truth. The next
-milestone is document ingestion, chunk metadata, retrieval, and the three-state evidence
-pipeline.
+```text
+Student Question
+       |
+       v
+Document Corpus
+       |
+       v
+Semantic Retrieval
+(all-MiniLM-L6-v2 + FAISS)
+       |
+       v
+Cross-Encoder Reranking
+(ms-marco-MiniLM-L-6-v2)
+       |
+       v
+Evidence Sufficiency
+       |
+       v
+Three-State Detection
+       |
+       +------------------+------------------+
+       |                  |                  |
+       v                  v                  v
+ ANSWERABLE         NOT_COVERED       CONTRADICTION
+       |                  |                  |
+       v                  v                  v
+ Supporting          No invented       Conflicting
+ Evidence              answer             Evidence
